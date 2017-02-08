@@ -1,0 +1,122 @@
+<div class="header" ng-init="Header.isLoggedIn()">
+	<div class="head">
+		<div class="w-container clearfix">
+			<div class="w-row">
+				<nav class="top-bar">
+					<div class="w-col w-col-2 w-col-small-3 w-col-tiny-5 w-col-big-mobile-5 column">
+						<div class="logo-wrapper">
+							<a href="#" id="logo">
+								<div class="logo-text"><img src="http://res.cloudinary.com/vulu/image/upload/v1481477881/vulu-logo_sby9ry.png" class="vulu-logo"></div>
+							</a>
+						</div>
+					</div>
+					<div class="w-col w-col-6 w-col-small-5 w-col-tiny-5 w-col-big-mobile-5 column">
+						<div class="container-search">
+
+
+							<!--todo fix css , please notice tags-input has css file at _setting.scss
+                                                        <tags-input ng-model="tags" id="search-input" ng-click="Header.gofullScreen()"
+                                                                    class="w-input" placeholder="חפש שאלה" type="text" ng-model="Header.query"
+                                                                    ng-class="Header.fullscreenSearch ? 'bigSearch' : ''"></tags-input>-->
+
+
+							<tags-input id="search-input" placeholder="חפש באנגלית או בעברית לפי Tags" type="text" ng-model="Header.tags" min-length="2" max-length="15" add-on-space="true" add-on-comma="false" onfocus="blur();"></tags-input>
+
+							<!--                            <input  ng-click="Header.gofullScreen()" class="w-input" placeholder="חפש שאלה" type="text" ng-model="Header.query" ng-class="Header.fullscreenSearch ? 'bigSearch' : ''" >-->
+							<button id="search-button" ng-click="Header.search()">
+								<svg class="icon icon-search">
+									<use xlink:href="#icon-search"></use>
+								</svg>
+							</button>
+							<!--
+                                                    <section class="autocomplete-results-container">
+                                                     <div class="w-container clearfix">
+                                                        <div class="w-row">
+                                                            <ul>
+                                                            <li></li>
+                                                            </ul>
+                                                            <div class="w-col w-col-4 w-col-small-4 w-col-tiny-12 w-col-big-mobile-6 column">
+
+                                                            </div>
+
+
+                                                         </div>
+                                                      </div>
+
+                                                    </section>
+                            -->
+
+						</div>
+					</div>
+					<div class="w-col w-col-4 w-col-small-4 w-col-tiny-7 w-col-big-mobile-7 column">
+						<nav role="navigation">
+							<ul class="menu clearfix">
+
+								<!--
+                                        TO DO: add signedUp variable that shows true if user is signedUp
+                                -->
+
+								<li ng-hide="Header.currentUser">
+
+									<div class="nav-link sign-up-button" id="services-link" ng-click="drop = !drop" ng-class="drop ? 'active' : ''"><span>כניסה</span>
+									</div>
+									<div class="login-tooltip" ng-class="Header.warning ? 'error' : '' ">
+										<div class="login-container">
+											<div class="form-container">
+
+												<button id="facebookBn" type="button" id="login" ng-click="Header.fbLogin()" href="#" target="_blank" alt="Login with Facebook"><img src="http://res.cloudinary.com/talkme-co/image/upload/v1445607368/facebook-icon_jfwcig.svg" class="iconsocial"><span class="primary-text">המשיכו עם פייסבוק</span></button>
+												<p class="or">או</p>
+
+
+												<form ng-submit="Header.login()" id="login-form">
+
+													<input type="email" placeholder='דוא"ל' name="email" id="email" class="email login" ng-model="email" required="required" ng-click="Header.disableWarning()" ng-class="Header.warning ? 'warning' : ''" />
+													<br/>
+													<input type="password" placeholder="ססמא" name="password" id="pass" class="pass login" ng-model="password" required="required" ng-click="Header.disableWarning()" ng-class="Header.warning ? 'warning' : ''" />
+													<br/>
+													<input type="submit" id="submit" class="submit login" value="כניסה" />
+
+												</form>
+												<a href="" class="reset-pass" ng-click="Header.resetPassword()">שכחת
+                                                    ססמא? לחצ/י כאן</a>
+												<p ng-show="Header.warning" class="reset-pass error">{{Header.errorMessage}}</p>
+											</div>
+
+											<div class="signup-container">
+												<p class="signup-text">חדש/ה בVulu?</p>
+
+												<!--		TO DO:	redirect the user to login state-->
+												<a href="#!/login" class="submit">להרשמה</a>
+											</div>
+
+										</div>
+									</div>
+
+								</li>
+
+								<!--TO DO: ng-show when user is signedUp + add ng-src profile picture and username -->
+								<li ng-show="Header.currentUser">
+
+									<div class="nav-link profile" ng-click="showDropdown = !showDropdown" ng-class="showDropdown ? 'drop-down' : '' ">
+										<img class="profile-image" ng-src="{{ Header.currentUser.imageUrl ? Header.currentUser.imageUrl : 'http://res.cloudinary.com/talkme-co/image/upload/v1470909661/profile-monstr_ldqvqq.png' }}">
+										<p class="profile-name">{{ Header.currentUser.displayName ? Header.currentUser.displayName : Header.currentUser.email.split("@")[0] }}</p>
+										<div class="menu-tooltip">
+											<div class="log-out" ng-click="Header.logout()">התנתק/י</div>
+										</div>
+									</div>
+
+
+
+
+								</li>
+							</ul>
+						</nav>
+					</div>
+
+				</nav>
+			</div>
+		</div>
+
+	</div>
+	<!--<div ng-click="Header.closeFullScreen()" ng-class="Header.fullscreenSearch ? 'fullScreen' : ''"></div>	-->
+</div>

@@ -1,0 +1,81 @@
+<!--Todo Elad - add error message for login/signup
+login.loginErrorMessage
+login.signUpErrorMessage
+login.resetPasswordErrorMessage-->
+
+<div class="login-page">
+<div id="login-modal"><div onclick="window.history.back()" class="close login">
+    <svg class="icon icon-close">
+        <use xlink:href="#icon-close"></use>
+    </svg>
+</div></div>
+<div id="login-box">
+
+    <div class="main-logo">
+       <img class="vulu-logo" src="http://res.cloudinary.com/talkme-co/image/upload/v1477004013/vulu-logo_f9dhbq.svg">
+    </div>
+	
+	<div ng-hide="signupForm === false">
+    <h1 class="main-header login">הרשמ/י כדי להגיב או להצביע לשאלות</h1>
+
+    <p class="main-body login"> Vulu הוא מנוע חיפוש ליזמים שבוא ניתן למצוא ולשתף ידע בכל מה שקשור לעולם הסטארטאפים.
+        השירות אינו כרוך בתשלום.</p>
+
+    <div class="form-container">
+<!--
+        <button id="facebookBn" type="button" id="login" ng-click="login.fbLogin()" href="#" target="_blank"
+                alt="Login with Facebook"><img
+                src="http://res.cloudinary.com/talkme-co/image/upload/v1445607368/facebook-icon_jfwcig.svg"
+                class="iconsocial"><span class="primary-text">המשיכו עם פייסבוק</span></button>
+-->
+<!--        <p class="or">או</p>-->
+
+			
+
+        <form ng-submit="login.signUp()" id="signup-form">
+            <input type="email" placeholder='הזן דוא"ל' name="email" id="SignUpEmail" class="email" ng-class="login.warning ? 'warning' : ''" ng-model="email" ng-click="login.disableWarning()"
+                   required="required"/>
+            <br/>
+            <input type="password" placeholder="ססמא" name="password" id="SignUpPass" class="pass" ng-class="login.warning ? 'warning' : ''" ng-model="password" ng-click="login.disableWarning()"
+                   required="required"/> <br/>
+            <input type="submit" id="SignUpSubmit" class="submit" value="הרשמה"/>
+        </form>
+		<a href="" class="reset-pass" ng-click="signupForm = false">יש לך משתמש? הכנס/י כאן</a>
+		<p ng-show="login.warning" class="reset-pass error">{{login.errorMessage}}.</p>
+		</div>
+    </div>
+	
+	
+<div ng-show="signupForm === false">	
+<!-- <h1 class="main-header login">היכנס/י לחשבון המשתמש שלך</h1>-->
+
+    <p class="main-body login"></p>
+
+    <div class="form-container">
+<!--
+        <button id="facebookBn" type="button" id="login" ng-click="login.fbLogin()" href="#" target="_blank"
+                alt="Login with Facebook"><img
+                src="http://res.cloudinary.com/talkme-co/image/upload/v1445607368/facebook-icon_jfwcig.svg"
+                class="iconsocial"><span class="primary-text">המשיכו עם פייסבוק</span></button>
+        <p class="or">או</p>
+-->
+	
+        <form ng-submit="login.login()" id="login-form">
+		
+            <input type="email" placeholder='דוא"ל' name="email" id="email" class="email login" ng-class="login.warning ? 'warning' : ''" ng-model="email" ng-click="login.disableWarning()" required="required"/>
+            <br/>
+            <input type="password" placeholder="ססמא" name="password" id="pass" class="pass login" ng-class="login.warning ? 'warning' : ''" ng-model="password"
+                   ng-click="login.disableWarning()" required="required"/> <br/>
+            <input type="submit" id="submit" class="submit login" value="כניסה"/>
+			
+        </form>
+		<a href="" class="reset-pass" ng-click="login.resetPassword()">שכחת ססמא? לחצ/י כאן</a>
+		<a href="" class="reset-pass" ng-click="signupForm = true">בחזרה להרשמה</a>	
+		<p ng-show="login.warning" class="reset-pass error">{{login.errorMessage}}.</p>
+		</div>
+	</div>
+	
+	
+</div>
+</div>
+

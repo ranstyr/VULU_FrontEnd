@@ -1,0 +1,55 @@
+@ECHO OFF
+
+REM First parameter should be the environment name
+SET ENV=%1
+
+REM Second parameter should be the team city working directory
+SET WORKING_DIRECTORY=%2
+
+REM jump to :CONFIG_DEV, :CONFIG_QA, etc.
+2>NUL CALL :CONFIG_%ENV%
+
+REM if label doesn't exist
+IF ERRORLEVEL 1 CALL :CONFIG_DEFAULT
+
+EXIT /B
+
+:CONFIG_development
+  SET DEPLOY_PATH=\\ildevweb01\
+  GOTO DEPLOY
+  GOTO END_CASE
+
+:CONFIG_test
+  SET DEPLOY_PATH=\\ilnetapp01\
+  GOTO DEPLOY
+  GOTO END_CASE
+
+:CONFIG_stage
+  SET DEPLOY_PATH=\\NJNETAPP01A\
+  GOTO DEPLOY
+  GOTO END_CASE
+
+:CONFIG_bt
+  SET DEPLOY_PATH=\\njnetapp01a\
+  GOTO DEPLOY
+  GOTO END_CASE
+
+:CONFIG_production
+  SET DEPLOY_PATH=\\NJNETAPP01A\
+  GOTO DEPLOY
+  GOTO END_CASE
+
+:CONFIG_DEFAULT
+  ECHO Unknown environment
+  GOTO END_CASE
+
+:DEPLOY
+  ECHO %WORKING_DIRECTORY%
+  ECHO %DEPLOY_PATH%
+  COPY /Y %WORKING_DIRECTORY%\package.json %DEPLOY_PATH%
+  DEL %DEPLOY_PATH%\*.js
+  XCOPY /C /E /Y %WORKING_DIRECTORY%\dist %DEPLOY_PATH%
+
+:END_CASE
+  VER > NUL # reset ERRORLEVEL
+  GOTO :EOF # return from CALL

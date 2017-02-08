@@ -1,0 +1,82 @@
+<div class="login" style="display: table-row;">
+
+    <div class="header">
+        <div class="logo"><a>Smart Investor</a></div>
+    </div>
+
+    <form name="SignUp.signUpForm"
+          class="validate-form"
+          ng-submit="SignUp.signUp()"
+          novalidate>
+        <fieldset>
+
+            <label translate="msgSignUp"></label>
+
+            <div class="bg-danger"
+                 ng-if="SignUp.authError">
+                <span translate="{{ SignUp.authError }}"></span>
+            </div>
+
+            <div class="bg-danger"
+                 ng-if="!SignUp.inputsValidity.email">
+                <span translate="msgInvalidEmail"></span>
+            </div>
+
+            <div class="row"
+                 ng-class="{ 'error': !SignUp.inputsValidity.email }">
+                <i class="icon email">
+                    <span class="path1"></span>
+                </i>
+
+                <input ng-model="SignUp.credentials.email"
+                       type="text"
+                       name="email"
+                       placeholder="{{ 'lblpromptUserName' | translate }}"
+                       ng-blur="SignUp.checkEmailValidity()"
+                       ng-focus="SignUp.inputInFocus('email')"
+                       ng-pattern="SignUp.PATTERNS.email"
+                       required
+                       autofocus>
+            </div>
+
+            <div class="bg-danger"
+                 ng-if="!SignUp.inputsValidity.password">
+                <span translate="msgWrongPassword"></span>
+            </div>
+
+            <div class="row"
+                 ng-class="{ 'error': !SignUp.inputsValidity.password }">
+                <i class="icon lock">
+                    <span class="path1"></span>
+                </i>
+                <input class="required"
+                       ng-model="SignUp.credentials.password"
+                       type="{{ SignUp.passwordInputType }}"
+                       name="password"
+                       placeholder="{{ 'lblpromptPassword' | translate }}"
+                       ng-blur="SignUp.checkPasswordValidity()"
+                       ng-focus="SignUp.inputInFocus('password')"
+                       ng-pattern="SignUp.PATTERNS.password"
+                       required>
+                </span>
+                <i class="icon show-password">
+                    <span class="path1"
+                          ng-mousedown="SignUp.revealPassword()"
+                          ng-mouseup="SignUp.hidePassword()">
+                    </span>
+                </i>
+            </div>
+
+            <button type="submit"
+                    class="btn btn-success"
+                    translate="btnSignUp">
+
+            </button>
+
+            <a href="" class="close"
+               ng-click="SignUp.dismissModal()"><i class="close-modal"></i></a>
+
+        </fieldset>
+    </form>
+</div>
+

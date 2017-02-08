@@ -1,0 +1,3406 @@
+{
+  "hits": [
+       {
+      "question": {
+	  "date": "16/11/2015",
+	  "rating": 79,
+	  "id": "434228236734415_560566964100541",
+	  "groupName": "השבוע: שאלות ותשובות על סטארטאפים",
+	  "personName": "Ran Segall",
+	  "message": "אהלן סטארטאפיסטים :)\nהרבה מכם מתקשים למצוא מעצבים, או יותר נכון - את המעצבים הטובים שיודעים לפתור בעיות של סטארטאפים. אז קיבצנו קבוצה מצומצמת של המעצבים הכי טובים בארץ שפתוחים להצעות עבודה (רובם עסוקים, חלקם עובדים בחברות הכי שוות בארץ), ובנינו אתר שעוזר לכם לכתוב להם הצעה מפתה שתשלח אליהם במייל. \nמוזמנים לנסות: http://www.mydesignerfriends.co/\nפידבקים יתקבלו בברכה.",
+	  "url": "https://www.facebook.com/434228236734415/posts/560566964100541",
+	  "personId": "10157133386900442",
+	  "obj": {
+		"id": "434228236734415_560566964100541",
+		"from": {
+		  "name": "Ran Segall",
+		  "id": "10157133386900442"
+		},
+		"with_tags": {
+		  "data": [{
+			"name": "Ayal Gelles",
+			"id": "1126697617376333"
+		  }, {
+			"name": "Lior Frenkel",
+			"id": "10154386350632642"
+		  }]
+		},
+		"message": "אהלן סטארטאפיסטים :)\nהרבה מכם מתקשים למצוא מעצבים, או יותר נכון - את המעצבים הטובים שיודעים לפתור בעיות של סטארטאפים. אז קיבצנו קבוצה מצומצמת של המעצבים הכי טובים בארץ שפתוחים להצעות עבודה (רובם עסוקים, חלקם עובדים בחברות הכי שוות בארץ), ובנינו אתר שעוזר לכם לכתוב להם הצעה מפתה שתשלח אליהם במייל. \nמוזמנים לנסות: http://www.mydesignerfriends.co/\nפידבקים יתקבלו בברכה.",
+		"actions": [{
+		  "name": "Like",
+		  "link": "https://www.facebook.com/434228236734415/posts/560566964100541"
+		}],
+		"privacy": {
+		  "value": "",
+		  "description": "",
+		  "friends": "",
+		  "allow": "",
+		  "deny": ""
+		},
+		"type": "status",
+		"created_time": "2015-11-16T08:38:45+0000",
+		"updated_time": "2015-11-18T17:16:00+0000",
+		"is_hidden": false,
+		"is_expired": false,
+		"likes": {
+		  "data": [{
+			"id": "10154255009831753",
+			"name": "Ohad Shemer"
+		  }, {
+			"id": "10209934279453719",
+			"name": "Miki Rapoport"
+		  }, {
+			"id": "10154380031329828",
+			"name": "Or Garfunkel"
+		  }, {
+			"id": "10153656699028062",
+			"name": "Yotam Romano"
+		  }, {
+			"id": "10153930421949055",
+			"name": "Liat Gelerter"
+		  }, {
+			"id": "10154439625953949",
+			"name": "Adi Orenshtein Assaf"
+		  }, {
+			"id": "10209694883797445",
+			"name": "Tomer Vagenfeld"
+		  }, {
+			"id": "10207107918686722",
+			"name": "Yonatan Ben Shimon"
+		  }, {
+			"id": "10209281905075843",
+			"name": "Ori Cohen"
+		  }, {
+			"id": "10154130782401488",
+			"name": "Roni Arkush"
+		  }, {
+			"id": "10154108288940465",
+			"name": "Dror Cohen"
+		  }, {
+			"id": "10153850016344685",
+			"name": "Elinor Goldring"
+		  }, {
+			"id": "10208775431556896",
+			"name": "Hadar Farberman"
+		  }, {
+			"id": "10154317368822351",
+			"name": "Tchelet Galai"
+		  }, {
+			"id": "10154414778677147",
+			"name": "Avishay Ben Zaken"
+		  }, {
+			"id": "10153534616187691",
+			"name": "Ido Ivri"
+		  }, {
+			"id": "10154205886146605",
+			"name": "Yael Segall"
+		  }, {
+			"id": "10153721812411769",
+			"name": "Gali Meiri"
+		  }, {
+			"id": "10154117798545590",
+			"name": "Ran Magen"
+		  }, {
+			"id": "1360173707344238",
+			"name": "Leonid Jack"
+		  }, {
+			"id": "10104715913593208",
+			"name": "Caroline Reder"
+		  }, {
+			"id": "10153694451338193",
+			"name": "Asaf Kalmanovich"
+		  }, {
+			"id": "10154373868084722",
+			"name": "Tailor Vijay"
+		  }, {
+			"id": "10153760977171342",
+			"name": "Lauren Nielsen"
+		  }, {
+			"id": "10154909534074338",
+			"name": "Inbal Vermus"
+		  }],
+		  "paging": {
+			"cursors": {
+			  "before": "MTAxNTQyNTUwMDk4MzE3NTMZD",
+			  "after": "MTAxNTQ5MDk1MzQwNzQzMzgZD"
+			},
+			"next": "https://graph.facebook.com/v2.0/434228236734415_560566964100541/likes?access_token=501986036514690%7CWhOAHes5DYXHwf8L47-nb910SxI&pretty=1&limit=25&after=MTAxNTQ5MDk1MzQwNzQzMzgZD"
+		  }
+		},
+		"comments": {
+		  "data": [{
+			"created_time": "2015-11-16T08:45:31+0000",
+			"from": {
+			  "name": "Ido Zaifman",
+			  "id": "10153931595947585"
+			},
+			"message": "ראיון חמוד\nמי המעצבים?\nלמה הכי טובים בארץ?\nהאם יש מערכת שנתאימה בין סוג הפרויקט לכישורים של המעצב?\nמה קורה אחרי שמלאתי את הטופס?\nהאם אני צריך להרשם קודם? אם כן זה לא ברור כרגע\nלמה אין לי אופציה לחזור שלב אחורה?\nזה מה ששמתי לב בנתיים,\nבהצלחה :)",
+			"can_remove": false,
+			"like_count": 5,
+			"user_likes": false,
+			"id": "560567730767131"
+		  }, {
+			"created_time": "2015-11-16T09:02:07+0000",
+			"from": {
+			  "name": "Artiom Dashinsky",
+			  "id": "10208639086286072"
+			},
+			"message": "👍👍👍\nאם אתם מחפשים מעצב בארץ מוזמנים להגיש את הפרוייקט/משרה שלכם לניוזלטר שלי שיוצא ליותר מ-450 מעצבים בארץ.\nhttp://designjobs.co.il",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "560569687433602"
+		  }, {
+			"created_time": "2015-11-16T09:11:17+0000",
+			"from": {
+			  "name": "Taïr Delia",
+			  "id": "10209985591418993"
+			},
+			"message": "מה לגבי עיצוב מוצר?",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "560570784100159"
+		  }, {
+			"created_time": "2015-11-16T09:13:47+0000",
+			"from": {
+			  "name": "Matty Mariansky",
+			  "id": "10154394326817074"
+			},
+			"message": "עיצבנו את ליאור גם ככה, אז אקפוץ גם על העגלה.. לוח המשרות הותיק ביותר למעצבים (ובחינם)\nhttp://jobs.hoop.co.il",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "560571154100122"
+		  }, {
+			"created_time": "2015-11-16T09:28:00+0000",
+			"from": {
+			  "name": "Alice Shani Lankri",
+			  "id": "10154314593582248"
+			},
+			"message": "תודה ליאור, העברתי הלאה. מחפשים מעצב לבילגארד. בהצלחה :))",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "560572754099962"
+		  }, {
+			"created_time": "2015-11-16T09:32:58+0000",
+			"from": {
+			  "name": "Yehuda Zadik",
+			  "id": "10206428831071545"
+			},
+			"message": "יש את פירוט הנסיון שלהם ?\nע\"פ אילו קריטריונים הם הוכנסו לאתר ?",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "560573334099904"
+		  }, {
+			"created_time": "2015-11-16T09:58:48+0000",
+			"from": {
+			  "name": "Omer Yarkowich",
+			  "id": "10154446779994683"
+			},
+			"message": "שאפו ענק, תודה רבה על הפרויקט הזה. בשעה האחרונה יצא לי להפנות לפחות 3 אנשים שמחפשים מעצבים לאתר הזה, ויש לפחות עוד מישהי אחת שאני יודע שמחפשת שאפנה לשם. כל הכבוד.\nRan Segall",
+			"can_remove": false,
+			"like_count": 2,
+			"message_tags": [{
+			  "id": "10157133386900442",
+			  "length": 10,
+			  "name": "Ran Segall",
+			  "offset": 163,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "560577634099474"
+		  }, {
+			"created_time": "2015-11-16T10:51:05+0000",
+			"from": {
+			  "name": "Eden Vidal",
+			  "id": "10154194030792976"
+			},
+			"message": "Mega Like",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "560586120765292"
+		  }, {
+			"created_time": "2015-11-16T11:08:27+0000",
+			"from": {
+			  "name": "David Elharar",
+			  "id": "10104715912640118"
+			},
+			"message": "לא יכול היה לבוא יותר בזמן מזה. תודה רבה",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "560588837431687"
+		  }, {
+			"created_time": "2015-11-16T11:31:45+0000",
+			"from": {
+			  "name": "Ohad Aviv",
+			  "id": "942954269166398"
+			},
+			"message": "מברוק. מה שבטוח, פתרת בעיה ענקית לכל מי שממילא מקבל את הפניות האלה על בסיס יום יומי ;)",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "560592920764612"
+		  }, {
+			"created_time": "2015-11-16T16:20:42+0000",
+			"from": {
+			  "name": "Allon Mason",
+			  "id": "10156027444876515"
+			},
+			"message": "Www.xplace.com",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "560653197425251"
+		  }, {
+			"created_time": "2015-11-16T17:24:18+0000",
+			"from": {
+			  "name": "Maya Shlezinger",
+			  "id": "10208475262133523"
+			},
+			"message": "איך בדיוק קיבצתם את הרשימה הזו? מה המקורות? \nנשמע שזו רשימה שכל אחד שם שילם כסף כדי להכנס אליה...",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "560666770757227"
+		  }, {
+			"created_time": "2015-11-16T19:19:24+0000",
+			"from": {
+			  "name": "Itay Foyerstein",
+			  "id": "10154369376989074"
+			},
+			"message": "Yael Segall",
+			"can_remove": false,
+			"like_count": 1,
+			"message_tags": [{
+			  "id": "10154205886146605",
+			  "length": 11,
+			  "name": "Yael Segall",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "560705634086674"
+		  }],
+		  "paging": {
+			"cursors": {
+			  "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAOVFl3TlRZAM056TXdOelkzTVRNeE9qRTBORGMyTmpNMU16ST0ZD",
+			  "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAOVFl3TnpBMU5qTTBNRGcyTmpjME9qRTBORGMzTURFMU5qVT0ZD"
+			}
+		  }
+		}
+	  }
+	},
+	  "objectID" : "318237470"
+	  
+	   },
+
+  {
+      "question":	{
+	  "date": "25/12/2015",
+	  "rating": 69,
+	  "id": "434228236734415_574989119324992",
+	  "groupName": "השבוע: שאלות ותשובות על סטארטאפים",
+	  "personName": "Roee Mor",
+	  "message": "שלום חברים, \nרציתי לפתוח דיון בנושא Growth Hacking, ולהציע עזרה בנושא לכל יזם בקבוצה שיהיה מעוניין לספר על המוצר שלו/ה, קהל היעד, אסטרטגיית הצמיחה הנוכחית, וכל פרט שיכול לעזור במציאת פתרונות יצירתיים לצמיחה.\nכשאני אומר יצירתיים אני מתכוון ליצירתיים! (זה לא עוד דיון בנושא SEO/SEM/PPC וכו'). \nבמיוחד מעניינים סטארטאפים בתחילת דרכם, עם גרסה ראשונית של מוצר ותקציב אפסי לשיווק, שמעוניינים להתחיל לייצר טראפיק ומשתמשים. \n\nמה זה Growth Hacking יצירתי?\nאחד מסיפורי הההצלחה החזקים ביותר בתחום הוא של AIRBNB (ואני ממליץ למי שלא מכיר את הסיפור לקרוא את זה - www.growthhackers.com/growth-studies/airbnb). \n \nאיך אני יכול לעזור? \nבתקופה שבה AIRBNB הוקמה (ומספר שנים לפני שהומצא המונח Growth Hacking), המוצר שעבדתי עליו כ-PM חצה את רף ה-100 מיליון משתמשים/התקנות.\nמספר שנים קודם הצטרפתי לחברה, כשלרשותינו היו: \nמוצר בפיתוח, אפס משתמשים, ואפס דולרים להוציא על פרסום. (אה כן, וארבעה אנשים יצירתיים במיוחד!). במצב כזה חייבים לחשוב מחוץ לקופסה, חייבים למצוא דרכים לייצר טראפיק תוך \"רכיבה\" על פלטפורמות מוצלחות אחרות (כן, גם אם זה לא הכי אתי...), וחייבים להגיע להבנה עמוקה מאוד של המשתמשים הקיימים כדי לגרום לויראליות וסטיקינס. בדיוק בתחומים האלה אוכל לעזור.\n \nהמילה היחידה שאני יכול לחשוב עליה כדי לתאר את מה שקרה בין-0 ל-100 מיליון משתמשים היא: ט-ר-פ-ת ! ומאז אני מכור... :) \n\nמי מתנדב להיות ראשון?",
+	  "url": "https://www.facebook.com/434228236734415/posts/574989119324992",
+	  "personId": "10155030721607846",
+	  "obj": {
+		"id": "434228236734415_574989119324992",
+		"from": {
+		  "name": "Roee Mor",
+		  "id": "10155030721607846"
+		},
+		"message": "שלום חברים, \nרציתי לפתוח דיון בנושא Growth Hacking, ולהציע עזרה בנושא לכל יזם בקבוצה שיהיה מעוניין לספר על המוצר שלו/ה, קהל היעד, אסטרטגיית הצמיחה הנוכחית, וכל פרט שיכול לעזור במציאת פתרונות יצירתיים לצמיחה.\nכשאני אומר יצירתיים אני מתכוון ליצירתיים! (זה לא עוד דיון בנושא SEO/SEM/PPC וכו'). \nבמיוחד מעניינים סטארטאפים בתחילת דרכם, עם גרסה ראשונית של מוצר ותקציב אפסי לשיווק, שמעוניינים להתחיל לייצר טראפיק ומשתמשים. \n\nמה זה Growth Hacking יצירתי?\nאחד מסיפורי הההצלחה החזקים ביותר בתחום הוא של AIRBNB (ואני ממליץ למי שלא מכיר את הסיפור לקרוא את זה - www.growthhackers.com/growth-studies/airbnb). \n \nאיך אני יכול לעזור? \nבתקופה שבה AIRBNB הוקמה (ומספר שנים לפני שהומצא המונח Growth Hacking), המוצר שעבדתי עליו כ-PM חצה את רף ה-100 מיליון משתמשים/התקנות.\nמספר שנים קודם הצטרפתי לחברה, כשלרשותינו היו: \nמוצר בפיתוח, אפס משתמשים, ואפס דולרים להוציא על פרסום. (אה כן, וארבעה אנשים יצירתיים במיוחד!). במצב כזה חייבים לחשוב מחוץ לקופסה, חייבים למצוא דרכים לייצר טראפיק תוך \"רכיבה\" על פלטפורמות מוצלחות אחרות (כן, גם אם זה לא הכי אתי...), וחייבים להגיע להבנה עמוקה מאוד של המשתמשים הקיימים כדי לגרום לויראליות וסטיקינס. בדיוק בתחומים האלה אוכל לעזור.\n \nהמילה היחידה שאני יכול לחשוב עליה כדי לתאר את מה שקרה בין-0 ל-100 מיליון משתמשים היא: ט-ר-פ-ת ! ומאז אני מכור... :) \n\nמי מתנדב להיות ראשון?",
+		"picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQB7N_1d10mRRdoc&w=130&h=130&url=https%3A%2F%2Fgh-prod-ruby-images.s3.amazonaws.com%2Fuploads%2Fimage%2Ffile%2F69%2Fairbnb-photographers-chart.png&cfs=1",
+		"link": "http://www.growthhackers.com/growth-studies/airbnb",
+		"name": "Airbnb: The Growth Story You Didn't Know",
+		"caption": "growthhackers.com",
+		"description": "Airbnb is now a household name that has surpassed industry legacy Hilton Hotels in nights booked. As of spring 2014, the platform had 10 million guests and 550,000 properties listed worldwide, along with a $10B valuation—making Airbnb worth more than legacy players like Wyndham and Hyatt. Read on to…",
+		"icon": "https://www.facebook.com/images/icons/post.gif",
+		"actions": [{
+		  "name": "Like",
+		  "link": "https://www.facebook.com/434228236734415/posts/574989119324992"
+		}],
+		"privacy": {
+		  "value": "",
+		  "description": "",
+		  "friends": "",
+		  "allow": "",
+		  "deny": ""
+		},
+		"type": "link",
+		"status_type": "shared_story",
+		"created_time": "2015-12-25T16:33:27+0000",
+		"updated_time": "2016-06-23T14:19:49+0000",
+		"is_hidden": false,
+		"is_expired": false,
+		"likes": {
+		  "data": [{
+			"id": "10209675798474920",
+			"name": "George Shternshtain"
+		  }, {
+			"id": "10208352279937142",
+			"name": "Itay Ben"
+		  }, {
+			"id": "10153938580378218",
+			"name": "Sagee Ben-Zedeff"
+		  }, {
+			"id": "10157178571795171",
+			"name": "Dror Poleg"
+		  }, {
+			"id": "10154226585486153",
+			"name": "Yaron Been"
+		  }, {
+			"id": "10153736576284856",
+			"name": "Itay Morag"
+		  }, {
+			"id": "10208007162150583",
+			"name": "Noam Gabison"
+		  }, {
+			"id": "10154445467159063",
+			"name": "Matan Goldman"
+		  }, {
+			"id": "10155017544549148",
+			"name": "Adi Mor"
+		  }, {
+			"id": "10153733788431724",
+			"name": "Shimrit Shiran"
+		  }, {
+			"id": "10154260225869909",
+			"name": "Yossi Errera"
+		  }, {
+			"id": "10153873370908893",
+			"name": "Maor Yehiel"
+		  }, {
+			"id": "10154277920618544",
+			"name": "Gil Greenbaum"
+		  }, {
+			"id": "10154191570603672",
+			"name": "Matan Gidnian"
+		  }, {
+			"id": "1216069188425861",
+			"name": "Otniel Levi"
+		  }, {
+			"id": "10208544528024556",
+			"name": "Ayala Meromi Keinan"
+		  }, {
+			"id": "609034194",
+			"name": "Ran Styr"
+		  }, {
+			"id": "10154287202615489",
+			"name": "Maya Zack Holtzer"
+		  }, {
+			"id": "10154301983879680",
+			"name": "Netta Bondy"
+		  }, {
+			"id": "10154550844923268",
+			"name": "Ajar Bahamonde"
+		  }, {
+			"id": "10154255009831753",
+			"name": "Ohad Shemer"
+		  }, {
+			"id": "10208380175480015",
+			"name": "Oran Goldstein"
+		  }, {
+			"id": "10154342105634345",
+			"name": "Daniel Rozner"
+		  }, {
+			"id": "1073470312740854",
+			"name": "Amos Talmor"
+		  }, {
+			"id": "10157139759465083",
+			"name": "Aviran Revach"
+		  }],
+		  "paging": {
+			"cursors": {
+			  "before": "MTAyMDk2NzU3OTg0NzQ5MjAZD",
+			  "after": "MTAxNTcxMzk3NTk0NjUwODMZD"
+			},
+			"next": "https://graph.facebook.com/v2.0/434228236734415_574989119324992/likes?access_token=501986036514690%7CWhOAHes5DYXHwf8L47-nb910SxI&pretty=1&limit=25&after=MTAxNTcxMzk3NTk0NjUwODMZD"
+		  }
+		},
+		"comments": {
+		  "data": [{
+			"created_time": "2015-12-25T18:49:06+0000",
+			"from": {
+			  "name": "Yotam Cohen",
+			  "id": "10207847810247803"
+			},
+			"message": "המלצת קריאה נוספת: https://growthhackers.com/growth-studies/linkedin",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "575055249318379"
+		  }, {
+			"created_time": "2015-12-26T09:07:32+0000",
+			"from": {
+			  "name": "Daniel Sharabi",
+			  "id": "1427695160589658"
+			},
+			"message": "אני 😊",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "575258869298017"
+		  }, {
+			"created_time": "2015-12-26T09:48:22+0000",
+			"from": {
+			  "name": "Inbal Miron",
+			  "id": "10154952479038272"
+			},
+			"message": "גם אני",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "575263982630839"
+		  }, {
+			"created_time": "2015-12-26T18:39:46+0000",
+			"from": {
+			  "name": "Alon Gamliel",
+			  "id": "10154298299909555"
+			},
+			"message": "מעניין מאד, אשמח לשמוע עוד פרטים",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "575402412616996"
+		  }, {
+			"created_time": "2015-12-26T20:40:09+0000",
+			"from": {
+			  "name": "Boaz Omanuti",
+			  "id": "10157070205100263"
+			},
+			"message": "אנחנו נשמח גם",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "575425075948063"
+		  }, {
+			"created_time": "2015-12-27T04:52:34+0000",
+			"from": {
+			  "name": "Idan Keisar",
+			  "id": "10153908933634585"
+			},
+			"message": "Alon Lewin\nOmri Shabi\nנראה לי מאוד מעניין",
+			"can_remove": false,
+			"like_count": 2,
+			"message_tags": [{
+			  "id": "10154399683064558",
+			  "length": 10,
+			  "name": "Alon Lewin",
+			  "offset": 0,
+			  "type": "user"
+			}, {
+			  "id": "10208689308363454",
+			  "length": 10,
+			  "name": "Omri Shabi",
+			  "offset": 11,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "575521199271784"
+		  }, {
+			"created_time": "2015-12-27T07:55:03+0000",
+			"from": {
+			  "name": "Roee Mor",
+			  "id": "10155030721607846"
+			},
+			"message": "כיף לראות שיש עניין. אני ממליץ לכולם לקרוא את התגובה לדניאל ובבקשה לתת כמה שיותר פרטים...",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "575562349267669"
+		  }, {
+			"created_time": "2015-12-27T13:35:31+0000",
+			"from": {
+			  "name": "Imri Heppner",
+			  "id": "10209497541213007"
+			},
+			"message": "Udi Liberman",
+			"can_remove": false,
+			"like_count": 1,
+			"message_tags": [{
+			  "id": "10154196040719564",
+			  "length": 12,
+			  "name": "Udi Liberman",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "575674112589826"
+		  }, {
+			"created_time": "2015-12-27T17:51:20+0000",
+			"from": {
+			  "name": "Samuel Jacobson",
+			  "id": "10101164066573215"
+			},
+			"message": "לא הכי אתי??? מה נהיה?",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "575756975914873"
+		  }, {
+			"created_time": "2015-12-28T07:40:24+0000",
+			"from": {
+			  "name": "Almog Baku",
+			  "id": "10154287651227964"
+			},
+			"message": "תשובות מנומקות ומקצועיות. 👍😎\nבדיוק מסוג האנשים שאני מצפה שירצו בכנסי growth hacking (להבדיל מרוב המרצים באירועים מהסוג הזה)",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "575983929225511"
+		  }, {
+			"created_time": "2015-12-28T07:43:38+0000",
+			"from": {
+			  "name": "Almog Baku",
+			  "id": "10154287651227964"
+			},
+			"message": "Cc: Omer Yarkowich",
+			"can_remove": false,
+			"like_count": 2,
+			"message_tags": [{
+			  "id": "10154446779994683",
+			  "length": 14,
+			  "name": "Omer Yarkowich",
+			  "offset": 4,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "575984549225449"
+		  }, {
+			"created_time": "2015-12-28T07:55:54+0000",
+			"from": {
+			  "name": "Roee Mor",
+			  "id": "10155030721607846"
+			},
+			"message": "תודה Almog Baku. התייאשתי מלמצוא אנשים שבאמת מבינים בתחום בכנסי growth hacking.",
+			"can_remove": false,
+			"like_count": 1,
+			"message_tags": [{
+			  "id": "10154287651227964",
+			  "length": 10,
+			  "name": "Almog Baku",
+			  "offset": 5,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "575986655891905"
+		  }, {
+			"created_time": "2015-12-28T08:03:47+0000",
+			"from": {
+			  "name": "Alla Foht",
+			  "id": "10154302254631624"
+			},
+			"message": "גם אני אשמח. אנחנו אומנם אפליקציה, אבל הנה האתר: https://getlogdog.com/",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "575988132558424"
+		  }, {
+			"created_time": "2015-12-28T13:35:08+0000",
+			"from": {
+			  "name": "Miko Levy",
+			  "id": "10154077738318673"
+			},
+			"message": "Lior Asta",
+			"can_remove": false,
+			"like_count": 2,
+			"message_tags": [{
+			  "id": "10153971187831749",
+			  "length": 9,
+			  "name": "Lior Asta",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "576118699212034"
+		  }, {
+			"created_time": "2015-12-28T15:51:01+0000",
+			"from": {
+			  "name": "Michael Penzin",
+			  "id": "10154344511428724"
+			},
+			"message": "אני!",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "576174245873146"
+		  }, {
+			"created_time": "2015-12-28T17:02:23+0000",
+			"from": {
+			  "name": "Yoav HaCohen",
+			  "id": "10153654705025069"
+			},
+			"message": "אנחנו: www.picktorial.com\nתוכנת עריכה לצלמים מקצועיים, נותנת workflow חלק ואינטואיטיבי: מפיתוח תמונה ה-RAW דרך עריכת צבע, retouching ועד watermark ושיתוף החוצה.\nקהל היעד: צלמים שעורכים תמונות (כרגע גרסה למקינטוש בלבד), עם מצלמת DSLR (לא חובה, אבל אנחנו נותנים להם יותר ערך).\nמתחרים ב-Adobe Lightroom בעיקר (עולה 120$ לשנה).\nלפני חודש וחצי המוצר יצא בגרסת BETA, ומתוכנן לצאת ל-Mac App Store בסוף ינואר (מחיר עוד לא נקבע סופית, אבל כנראה באזור ה-30 דולר ליחידה).\nהתוכנית שלנו: חשיפה בעיתונות טכנולוגית, פורומים ובלוגים שמיועדים לצלמים, ופרסום ממומן.",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "576199315870639"
+		  }, {
+			"created_time": "2015-12-28T21:16:50+0000",
+			"from": {
+			  "name": "Ophir Atar",
+			  "id": "10208662184725728"
+			},
+			"message": "היי רואי,\n\nאנחנו מוכרים תווים לפסנתר שקצת שונו והרבה יותר קל לנגן מהם.\nקהל היעד: חובבים או תלמידי נגינה בפסנתר.\nהדבר הטוב ביותר היה אם היינו יכולים להגיע לתלמידים דרך המורים.\nHttp://icanpiano.net\nכרגע תוכנה שממירה תווים רק ברשת.",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "576260895864481"
+		  }, {
+			"created_time": "2015-12-30T06:46:50+0000",
+			"from": {
+			  "name": "Adam Matan",
+			  "id": "10153944709558025"
+			},
+			"message": "David Hammel Uri Bornstein",
+			"can_remove": false,
+			"like_count": 1,
+			"message_tags": [{
+			  "id": "572570839571110",
+			  "length": 12,
+			  "name": "David Hammel",
+			  "offset": 0,
+			  "type": "user"
+			}, {
+			  "id": "1197586830275076",
+			  "length": 13,
+			  "name": "Uri Bornstein",
+			  "offset": 13,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "576786482478589"
+		  }, {
+			"created_time": "2015-12-30T08:34:22+0000",
+			"from": {
+			  "name": "Matty Mariansky",
+			  "id": "10154394326817074"
+			},
+			"message": "שלום רואי, אני מקווה שאתה עדיין בסביבה. קראתי את התשובות המעניינות שכתבת למעלה, ומעניין מאוד לשמוע עוד רעיונות ממך! Roee Mor\nאנחנו https://meekan.com/slack בונים רובוט עוזר אישי. הוא מצטרף כמו עוד משתמש לקבוצת Slack או HipChat שלך, ומקבל פקודות בשפה רגילה (אנגלית..). \"תקבע לנו פגישה בשבוע הבא בבוקר, ואנחנו צריכים חדר פנוי\". הוא בודק את הזמן הפנוי וההעדפות של כולם, ומסנכרן את היומנים (וגם מוצא טיסות, מסדר קונפליקטים, מזמין אוכל ועוד)\nקהל היעד האידיאלי הוא קבוצות עבודה שנפגשות הרבה (במיוחד אם הם מפוזרים באיזורי זמן שונים, שהרובוט אוהב במיוחד), או אנשים עם יומן עמוס והרבה פגישות וטיסות, שאין להם עוזר אישי שיכול לטפל בכל הבלאגן הזה בשבילם.\nכמובן צריכים להיות משתמשי Slack או HipChat. הרוב הגדול של המשתמשים מגיע מחנות האפליקציות של Slack, והשאר בד\"כ מפוסטים בבלוגים (שלנו או של אחרים)",
+			"can_remove": false,
+			"like_count": 5,
+			"message_tags": [{
+			  "id": "10155030721607846",
+			  "length": 8,
+			  "name": "Roee Mor",
+			  "offset": 116,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "576808485809722"
+		  }, {
+			"created_time": "2015-12-30T08:59:05+0000",
+			"from": {
+			  "name": "Roee Mor",
+			  "id": "10155030721607846"
+			},
+			"message": "חברים אני מופתע מכמות הפניות (יש גם כאלה שהגיעו בפרטי). אשמח להמשיך לעזור, אבל הייתי שמח אם גם חברים אחרים בקבוצה יתרמו ב:\n1. ביקורת ותגובות לרעיונות/הצעות שלי \n2. עצות נוספות למי שיש (ואני יודע שיש פה אנשים עם המון ידע וניסיון)",
+			"can_remove": false,
+			"like_count": 7,
+			"user_likes": false,
+			"id": "576811689142735"
+		  }, {
+			"created_time": "2015-12-30T11:14:55+0000",
+			"from": {
+			  "name": "Avishai Moscovich",
+			  "id": "10154458826724059"
+			},
+			"message": "Ifat Peled Shir Rothman",
+			"can_remove": false,
+			"like_count": 2,
+			"message_tags": [{
+			  "id": "10208569033575489",
+			  "length": 10,
+			  "name": "Ifat Peled",
+			  "offset": 0,
+			  "type": "user"
+			}, {
+			  "id": "10153895902288757",
+			  "length": 12,
+			  "name": "Shir Rothman",
+			  "offset": 11,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "576837692473468"
+		  }, {
+			"created_time": "2015-12-31T08:19:41+0000",
+			"from": {
+			  "name": "Tal Moran",
+			  "id": "10154254511903774"
+			},
+			"message": "Nimrod Moran",
+			"can_remove": false,
+			"like_count": 2,
+			"message_tags": [{
+			  "id": "10154794706870329",
+			  "length": 12,
+			  "name": "Nimrod Moran",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "577162415774329"
+		  }, {
+			"created_time": "2015-12-31T17:43:39+0000",
+			"from": {
+			  "name": "Roee Mor",
+			  "id": "10155030721607846"
+			},
+			"message": "שלום לכולם - אני מקבל תגובות נהדרות אבל מאוד חבל לי ולאחרים שחלק מהדיונים עוברים לפרטי. אני מבין שיש דברים שאתם לא רוצים לחשוף שזה בסדר, אבל תשתדלו להשאיר את הדיון כאן כמה שיותר במידת האפשר.",
+			"can_remove": false,
+			"like_count": 3,
+			"user_likes": false,
+			"id": "577384989085405"
+		  }, {
+			"created_time": "2016-01-02T09:13:15+0000",
+			"from": {
+			  "name": "Eran Gur",
+			  "id": "10154264945208431"
+			},
+			"message": "היי רואי,\n\nשמי ערן, ואני עובד על פרויקט בשם Lynonym, תוסף כרום שמלמד אוצר מלים לשפה זרה: חלק מהמילים בכל אתר אליו המשתמש גולש מוחלפות לשפה הזרה אותה הוא מעוניין ללמוד, כך שהוא קורא אותן אותן בהקשר נכון וכחלק מהגלישה היומיומית שלו. תוכל להתרשם בעצמך כאן: \nwww.lynonym.com\n\nכרגע יש לנו פיילוט לספרדית ברמה מספיק גבוהה כדי להתחיל להביא יוזרים. אשמח מאוד לשמוע רעיונות.\n\nהמון תודה וכל הכבוד על היוזמה!\n\nערן ו Dor Cohen",
+			"can_remove": false,
+			"like_count": 7,
+			"message_tags": [{
+			  "id": "10210199927814891",
+			  "length": 9,
+			  "name": "Dor David Cohen",
+			  "offset": 405,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "578065052350732"
+		  }, {
+			"created_time": "2016-01-02T09:20:37+0000",
+			"from": {
+			  "name": "Ella Efrat",
+			  "id": "10209360643955015"
+			},
+			"message": "Zur Tene",
+			"can_remove": false,
+			"like_count": 1,
+			"message_tags": [{
+			  "id": "10206766372104086",
+			  "length": 8,
+			  "name": "Zur Tene",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "578066469017257"
+		  }],
+		  "paging": {
+			"cursors": {
+			  "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAOVGMxTURVMU1qUTVNekU0TXpjNU9qRTBOVEV3Tmprek5Eaz0ZD",
+			  "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAOVGM0TURZAMk5EWTVNREUzTWpVM09qRTBOVEUzTWpZAME16Yz0ZD"
+			},
+			"next": "https://graph.facebook.com/v2.0/434228236734415_574989119324992/comments?access_token=501986036514690%7CWhOAHes5DYXHwf8L47-nb910SxI&pretty=1&limit=25&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAOVGM0TURZAMk5EWTVNREUzTWpVM09qRTBOVEUzTWpZAME16Yz0ZD"
+		  }
+		}
+	  },
+	  "link": {
+		"link": "http://www.growthhackers.com/growth-studies/airbnb",
+		"name": "Airbnb: The Growth Story You Didn't Know",
+		"picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQB7N_1d10mRRdoc&w=130&h=130&url=https%3A%2F%2Fgh-prod-ruby-images.s3.amazonaws.com%2Fuploads%2Fimage%2Ffile%2F69%2Fairbnb-photographers-chart.png&cfs=1",
+		"caption": "growthhackers.com"
+	  }
+	},
+	  "objectID" : "318226520"
+	  },
+ {
+      "question":{
+	  "date": "25/09/2015",
+	  "rating": 43,
+	  "id": "434228236734415_544588499031721",
+	  "groupName": "השבוע: שאלות ותשובות על סטארטאפים",
+	  "personName": "Alon Osman",
+	  "message": "היי כולם,\nאני שותף ליצירת הספרדשיט הזה שמאחד את הכלים השימושיים ביותר למעצבי UX ולמנהלי מוצר.\nהלינק פתוח לכל. אם ברצונכם לתרום לשיתוף המידע, תרגישו חופשיים להפיץ ולשנות ככל העולה על רוחכם וכמובן להוסיף כלים חדשים. \n\nhttps://docs.google.com/spreadsheets/d/1FxOqoQYhViyy00zaC2ASGbv9imB67K7-qpv7NNTgfuM/edit#gid=139089350\n\nתהנו (טרפת)",
+	  "url": "https://www.facebook.com/434228236734415/posts/544588499031721",
+	  "personId": "10154303445344904",
+	  "obj": {
+		"id": "434228236734415_544588499031721",
+		"from": {
+		  "name": "Alon Osman",
+		  "id": "10154303445344904"
+		},
+		"message": "היי כולם,\nאני שותף ליצירת הספרדשיט הזה שמאחד את הכלים השימושיים ביותר למעצבי UX ולמנהלי מוצר.\nהלינק פתוח לכל. אם ברצונכם לתרום לשיתוף המידע, תרגישו חופשיים להפיץ ולשנות ככל העולה על רוחכם וכמובן להוסיף כלים חדשים. \n\nhttps://docs.google.com/spreadsheets/d/1FxOqoQYhViyy00zaC2ASGbv9imB67K7-qpv7NNTgfuM/edit#gid=139089350\n\nתהנו (טרפת)",
+		"actions": [{
+		  "name": "Like",
+		  "link": "https://www.facebook.com/434228236734415/posts/544588499031721"
+		}],
+		"privacy": {
+		  "value": "",
+		  "description": "",
+		  "friends": "",
+		  "allow": "",
+		  "deny": ""
+		},
+		"type": "status",
+		"created_time": "2015-09-25T09:49:13+0000",
+		"updated_time": "2015-10-06T08:18:32+0000",
+		"is_hidden": false,
+		"is_expired": false,
+		"likes": {
+		  "data": [{
+			"id": "1277041632335808",
+			"name": "Sagi Manman"
+		  }, {
+			"id": "10154415393572994",
+			"name": "Shachar Nahari"
+		  }, {
+			"id": "10153931595947585",
+			"name": "Ido Zaifman"
+		  }, {
+			"id": "10210073556419184",
+			"name": "Ofer Zelig"
+		  }, {
+			"id": "10210106975773147",
+			"name": "Elisha Cohen"
+		  }, {
+			"id": "10153923508793922",
+			"name": "Sharel Omer"
+		  }, {
+			"id": "10154119608506259",
+			"name": "Eran Ben Sabat"
+		  }, {
+			"id": "10154317368822351",
+			"name": "Tchelet Galai"
+		  }, {
+			"id": "1784634378490011",
+			"name": "Michal Mozes"
+		  }, {
+			"id": "10153849965253040",
+			"name": "Avishay Pariz"
+		  }, {
+			"id": "10153938580378218",
+			"name": "Sagee Ben-Zedeff"
+		  }, {
+			"id": "10209418108997324",
+			"name": "Ariel Elboim"
+		  }, {
+			"id": "10208806058842201",
+			"name": "Liron Achdut"
+		  }, {
+			"id": "10154308144322162",
+			"name": "Baruch Engel"
+		  }, {
+			"id": "10154342756624511",
+			"name": "Ilan Carmeli"
+		  }, {
+			"id": "825440604256443",
+			"name": "Daniel Kh"
+		  }, {
+			"id": "10153833611980892",
+			"name": "Lin Trifon"
+		  }, {
+			"id": "10209281905075843",
+			"name": "Ori Cohen"
+		  }, {
+			"id": "10153293855459159",
+			"name": "Ron Brn Gross"
+		  }, {
+			"id": "10153497331852811",
+			"name": "Omer Rosenbaum"
+		  }, {
+			"id": "10154130782401488",
+			"name": "Roni Arkush"
+		  }, {
+			"id": "10157147342345241",
+			"name": "Boris Kacevich"
+		  }, {
+			"id": "10210401533544438",
+			"name": "Chezki Frenkel"
+		  }, {
+			"id": "10154476386968394",
+			"name": "Liran Tadmor"
+		  }, {
+			"id": "10157070205100263",
+			"name": "Boaz Omanuti"
+		  }],
+		  "paging": {
+			"cursors": {
+			  "before": "MTI3NzA0MTYzMjMzNTgwOAZDZD",
+			  "after": "MTAxNTcwNzAyMDUxMDAyNjMZD"
+			},
+			"next": "https://graph.facebook.com/v2.0/434228236734415_544588499031721/likes?access_token=501986036514690%7CWhOAHes5DYXHwf8L47-nb910SxI&pretty=1&limit=25&after=MTAxNTcwNzAyMDUxMDAyNjMZD"
+		  }
+		},
+		"comments": {
+		  "data": [{
+			"created_time": "2015-09-25T09:57:35+0000",
+			"from": {
+			  "name": "Meir Dahan",
+			  "id": "10155120809258561"
+			},
+			"message": "ישר כח אלון",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "544589725698265"
+		  }, {
+			"created_time": "2015-09-25T09:57:47+0000",
+			"from": {
+			  "name": "Erez Lugashi",
+			  "id": "10154287692449872"
+			},
+			"message": "תודה תותח!",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "544589745698263"
+		  }, {
+			"created_time": "2015-09-25T10:16:56+0000",
+			"from": {
+			  "name": "Peter Berezhansky",
+			  "id": "10154273091164659"
+			},
+			"message": "Dan rimon, Assaf Sahar",
+			"can_remove": false,
+			"like_count": 1,
+			"message_tags": [{
+			  "id": "1188506267875808",
+			  "length": 11,
+			  "name": "Assaf Sahar",
+			  "offset": 12,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "544592562364648"
+		  }, {
+			"created_time": "2015-09-25T10:34:49+0000",
+			"from": {
+			  "name": "Yotam Romano",
+			  "id": "10153656699028062"
+			},
+			"message": "נהדר! המון תודה, משתף את חבריי Michael Kelter Hatzav Wolff Amir Isenberg Gal Polonsky",
+			"can_remove": false,
+			"like_count": 3,
+			"message_tags": [{
+			  "id": "10154374086532783",
+			  "length": 14,
+			  "name": "Michael Kelter",
+			  "offset": 31,
+			  "type": "user"
+			}, {
+			  "id": "10209145751496767",
+			  "length": 12,
+			  "name": "Hatzav Wolff",
+			  "offset": 46,
+			  "type": "user"
+			}, {
+			  "id": "10154377487538746",
+			  "length": 13,
+			  "name": "Amir Isenberg",
+			  "offset": 59,
+			  "type": "user"
+			}, {
+			  "id": "10208521712012745",
+			  "length": 12,
+			  "name": "Gal Polonsky",
+			  "offset": 73,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "544594715697766"
+		  }, {
+			"created_time": "2015-09-25T11:26:56+0000",
+			"from": {
+			  "name": "Sharon Schreiber",
+			  "id": "10154355982344433"
+			},
+			"message": "Yigal Carmy",
+			"can_remove": false,
+			"like_count": 2,
+			"message_tags": [{
+			  "id": "10210018487885013",
+			  "length": 11,
+			  "name": "Yigal Carmy",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "544603709030200"
+		  }, {
+			"created_time": "2015-09-25T15:23:49+0000",
+			"from": {
+			  "name": "Yuval Incze",
+			  "id": "10154268377242210"
+			},
+			"message": "Itai Incze",
+			"can_remove": false,
+			"like_count": 0,
+			"message_tags": [{
+			  "id": "10154444672791019",
+			  "length": 10,
+			  "name": "Itai Incze",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "544666252357279"
+		  }, {
+			"created_time": "2015-09-25T15:32:40+0000",
+			"from": {
+			  "name": "Rotem Shor",
+			  "id": "10153903043808392"
+			},
+			"message": "Hadar Farberman",
+			"can_remove": false,
+			"like_count": 1,
+			"message_tags": [{
+			  "id": "10208775431556896",
+			  "length": 15,
+			  "name": "Hadar Farberman",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "544668889023682"
+		  }, {
+			"created_time": "2015-09-26T00:18:57+0000",
+			"from": {
+			  "name": "Liron Finegold",
+			  "id": "10153809406412297"
+			},
+			"message": "קול! :)",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "544780419012529"
+		  }, {
+			"created_time": "2015-10-04T18:01:54+0000",
+			"from": {
+			  "name": "Alon Osman",
+			  "id": "10154303445344904"
+			},
+			"message": "הוספתי חוצץ ניסיוני של פרילנסרים ux, תרגישו חופשי להוסיף עצמכם.",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "547367058753865"
+		  }, {
+			"created_time": "2015-10-06T08:18:32+0000",
+			"from": {
+			  "name": "Adi Ben Mayor",
+			  "id": "1042238232536682"
+			},
+			"message": "Or Rigler",
+			"can_remove": false,
+			"like_count": 1,
+			"message_tags": [{
+			  "id": "10157080918715261",
+			  "length": 9,
+			  "name": "Or Rigler",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "547789892044915"
+		  }],
+		  "paging": {
+			"cursors": {
+			  "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAOVFEwTlRnNU56STFOams0TWpZAMU9qRTBORE14TnpVd05UWT0ZD",
+			  "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAOVFEzTnpnNU9Ea3lNRFEwT1RFMU9qRTBORFF4TVRrMU1UTT0ZD"
+			}
+		  }
+		}
+	  }
+	},
+	  "objectID" : "318240570"
+ },
+
+ {
+      "question":	{
+	  "date": "20/04/2016",
+	  "rating": 27,
+	  "id": "434228236734415_628379920652578",
+	  "groupName": "השבוע: שאלות ותשובות על סטארטאפים",
+	  "personName": "Gili Golander",
+	  "message": "טיפ למפתחי אפליקציות:\nרוצים שאפל יקדמו את האפליקציה החדשה שלכם באפסטור? אין לכם קשרים בקופרטינו? לא נורא. בקישור הבא תוכלו ליידע אותם (לפחות חודש לפני ההשקה) ואולי האלים יחייכו אליכם :)\nhttps://developer.apple.com/contact/app-store/promote",
+	  "url": "https://www.facebook.com/434228236734415/posts/628379920652578",
+	  "personId": "10154140424471839",
+	  "obj": {
+		"id": "434228236734415_628379920652578",
+		"from": {
+		  "name": "Gili Golander",
+		  "id": "10154140424471839"
+		},
+		"message": "טיפ למפתחי אפליקציות:\nרוצים שאפל יקדמו את האפליקציה החדשה שלכם באפסטור? אין לכם קשרים בקופרטינו? לא נורא. בקישור הבא תוכלו ליידע אותם (לפחות חודש לפני ההשקה) ואולי האלים יחייכו אליכם :)\nhttps://developer.apple.com/contact/app-store/promote",
+		"picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQDofgcbiktFC6ze&w=130&h=130&url=https%3A%2F%2Fappleid.cdn-apple.com%2Fdaw%2FIDMSWebAuth%2Fstatic%2F18Mar2016%2Fimages%2FAppleConnect%2FUS-EN%2Fadc09_forgot_password.png&cfs=1",
+		"link": "https://developer.apple.com/contact/app-store/promote/",
+		"name": "Sign in with your Apple ID - Apple Developer",
+		"caption": "idmsa.apple.com",
+		"icon": "https://www.facebook.com/images/icons/post.gif",
+		"actions": [{
+		  "name": "Like",
+		  "link": "https://www.facebook.com/434228236734415/posts/628379920652578"
+		}],
+		"privacy": {
+		  "value": "",
+		  "description": "",
+		  "friends": "",
+		  "allow": "",
+		  "deny": ""
+		},
+		"type": "link",
+		"status_type": "shared_story",
+		"created_time": "2016-04-20T20:38:07+0000",
+		"updated_time": "2016-04-22T08:39:47+0000",
+		"shares": {
+		  "count": 1
+		},
+		"is_hidden": false,
+		"is_expired": false,
+		"likes": {
+		  "data": [{
+			"id": "10153699670902083",
+			"name": "Chedva Kleinhandler"
+		  }, {
+			"id": "10153911158769412",
+			"name": "Ariel Kedem"
+		  }, {
+			"id": "10154395759840854",
+			"name": "Ofer Morag"
+		  }, {
+			"id": "10153713756987544",
+			"name": "Avishay Ovadia"
+		  }, {
+			"id": "860768797389400",
+			"name": "Orel Zion"
+		  }, {
+			"id": "10206329091856716",
+			"name": "Dorel Ishai"
+		  }, {
+			"id": "10209969720418538",
+			"name": "Imri Sofer"
+		  }, {
+			"id": "10153818908458507",
+			"name": "Tomer Harry"
+		  }, {
+			"id": "10210018487885013",
+			"name": "Yigal Carmy"
+		  }, {
+			"id": "543303495856873",
+			"name": "Aharon Rozazada"
+		  }, {
+			"id": "10154095287046201",
+			"name": "Zahi Reich"
+		  }, {
+			"id": "10157086562510506",
+			"name": "Gil Bahat"
+		  }, {
+			"id": "10154514207768974",
+			"name": "Daria Shualy"
+		  }, {
+			"id": "10204667795493079",
+			"name": "Uri Eliabayev"
+		  }, {
+			"id": "10153924811094737",
+			"name": "Eytan Levit"
+		  }, {
+			"id": "1240151742670675",
+			"name": "Yuval Moreno"
+		  }, {
+			"id": "10154316548376018",
+			"name": "Shira Cinamon"
+		  }, {
+			"id": "10210401533544438",
+			"name": "Chezki Frenkel"
+		  }, {
+			"id": "10153694451338193",
+			"name": "Asaf Kalmanovich"
+		  }, {
+			"id": "10153954853948197",
+			"name": "Liran Cohen"
+		  }, {
+			"id": "1277041632335808",
+			"name": "Sagi Manman"
+		  }, {
+			"id": "10157055036890392",
+			"name": "Eitan Sella"
+		  }, {
+			"id": "10206287203611393",
+			"name": "Shahar Zrihen"
+		  }, {
+			"id": "10154146956081708",
+			"name": "Gilli Buium Yahalom"
+		  }, {
+			"id": "10153939570394006",
+			"name": "Michal Michaeli"
+		  }],
+		  "paging": {
+			"cursors": {
+			  "before": "MTAxNTM2OTk2NzA5MDIwODMZD",
+			  "after": "MTAxNTM5Mzk1NzAzOTQwMDYZD"
+			},
+			"next": "https://graph.facebook.com/v2.0/434228236734415_628379920652578/likes?access_token=501986036514690%7CWhOAHes5DYXHwf8L47-nb910SxI&pretty=1&limit=25&after=MTAxNTM5Mzk1NzAzOTQwMDYZD"
+		  }
+		},
+		"comments": {
+		  "data": [{
+			"created_time": "2016-04-20T21:32:34+0000",
+			"from": {
+			  "name": "Asaf Kalmanovich",
+			  "id": "10153694451338193"
+			},
+			"message": "Thanks a lot gili😀😀😀",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "628397097317527"
+		  }, {
+			"created_time": "2016-04-21T02:56:16+0000",
+			"from": {
+			  "name": "Ron Aldo",
+			  "id": "305751223098240"
+			},
+			"message": "עובדי אפל כבר נחשבים לאלים?\nחשבתי שאחד אלוהינו, לא?",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "628498707307366"
+		  }, {
+			"created_time": "2016-04-21T07:24:21+0000",
+			"from": {
+			  "name": "Asaf Kalmanovich",
+			  "id": "10153694451338193"
+			},
+			"message": "Itay Nagar",
+			"can_remove": false,
+			"like_count": 0,
+			"message_tags": [{
+			  "id": "10154246523527510",
+			  "length": 10,
+			  "name": "Itay Nagar",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "628573627299874"
+		  }, {
+			"created_time": "2016-04-21T21:16:21+0000",
+			"from": {
+			  "name": "Leonard Frankel",
+			  "id": "10154206248302649"
+			},
+			"message": "תשמע רונן, ההערה שלך פשוט לא במקום.\nבחנויות האפליקציות משתחררות בממוצע יותר מ-30,000 אפליקציות בחודש, כדי להכיר אותן ולחשוף את צוות הEditorial למוצרים חדשים קיימים שני אפיקים בלבד: Appstore Managers שמפאת העומס עליהם עובדים רק עם מפתחים בגודל בינוני ומעלה ועמוד ההכרזה שגילי הפנתה אליו פה. זהו. \nלהגיש טופס שמדווח לאפל על האפליקציה שהשקת זה לא לסגוד לאפל, זה ליידע אותה. מי שמתעלם מהאפשרות הזו, מבחינה עסקית, אידיוט. גם אם הסיכוי שלך לקבל חשיפה מאפל נמוך, התוחלת על הזמן שאתה משקיע בלמלא את הטופס חיובית וחשוב לנצל אותה",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "628867127270524"
+		  }],
+		  "paging": {
+			"cursors": {
+			  "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAOakk0TXprM01EazNNekUzTlRJM09qRTBOakV4T0RjNU5UUT0ZD",
+			  "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAOakk0T0RZAM01USTNNamN3TlRJME9qRTBOakV5TnpNek9ERT0ZD"
+			}
+		  }
+		}
+	  },
+	  "link": {
+		"link": "https://developer.apple.com/contact/app-store/promote/",
+		"name": "Sign in with your Apple ID - Apple Developer",
+		"picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQDofgcbiktFC6ze&w=130&h=130&url=https%3A%2F%2Fappleid.cdn-apple.com%2Fdaw%2FIDMSWebAuth%2Fstatic%2F18Mar2016%2Fimages%2FAppleConnect%2FUS-EN%2Fadc09_forgot_password.png&cfs=1",
+		"caption": "idmsa.apple.com"
+	  }
+	},
+	  "objectID" : "318229690"  },
+
+	 {
+      "question":{
+	  "date": "06/01/2016",
+	  "rating": 62,
+	  "id": "434228236734415_579743955516175",
+	  "groupName": "השבוע: שאלות ותשובות על סטארטאפים",
+	  "personName": "Yair Bar-On",
+	  "message": "בתגובה לאחד הפוסטים כאן כתבתי שאני מעביר לרו\"ח שלי מסמכים בעזרת IFTTT, וקיבלתי מבול של שאלות מחברים טובים שרוצים פרטים, אז הנה הסוד:\n\n1. מנהלת החשבונות שלכם צריכה דרופבוקס. זה החלק הכי קשה. אני נסעתי אליה למשרד, התקנתי לה דרופבוקס, ישבתי לידה עם הלפטופ והראיתי לה איך אני משתף איתה מסמך והוא מופיע לה במחשב אוטומטית. הפרצוף שלה באותו רגע - פרייסלס.\n\n2. צרו חשבון ג'ימייל חדש והתחילו לנתב אליו את כל החשבוניות הדיגיטליות שלכם. זה לוקח הרבה מאד זמן לעדכן את כל העולם בכתובת החדשה, אבל זה שווה את המאמץ. בשאיפה הארגון שלכם יגדל ויום אחד מישהו אחר יתעסק עם החשבוניות, להפריד כבר היום זו השקעה חכמה.\n\n3. עד שכל העולם ואשתו יכירו את הכתובת החדשה, צרו חוקים במייל שלכם ובצעו fwd אוטומטי לאימיילים עם חשבוניות (הכי קל זה לפי שורת הנושא) לכתובת החדשה שיצרתם.\n\n4. הגדירו ב IFTTT חוק שלוקח את הקובץ המצורף מכל אימייל חדש שמגיע ושומר אותו בספריית הדרופבוקס ששיתפתם עם הנה\"ח.\n\nהערות: \nא. מומלץ להגדיר שהספריה ששיתפתם היא לקריאה בלבד ע\"י צוות הנה\"ח. זה לא ברור לכולם שכשמוחקים קובץ במחשב אחד זה נמחק אצל כולם.\nב. יש קבצים ש IFTTT לא מצליח לשמור. לדוגמה חשבוניות של גוגל וגם חשבוניות של גטטקסי. לא יודע למה זה קורה אולי זה מבנה הקובץ. אבל זה לא ביג דיל. קבצים כאלה תצטרכו לשמור בדרופבוקס ידנית.\nג. יש חשבוניות שמגיעות כאימייל טקסטואלי ולא עם קובץ מצורף. ראו סעיף ב'.\n\nותודה ל Dan Porat שממנו הגיע הרעיון.",
+	  "url": "https://www.facebook.com/434228236734415/posts/579743955516175",
+	  "personId": "10154309565306514",
+	  "obj": {
+		"id": "434228236734415_579743955516175",
+		"from": {
+		  "name": "Yair Bar-On",
+		  "id": "10154309565306514"
+		},
+		"message": "בתגובה לאחד הפוסטים כאן כתבתי שאני מעביר לרו\"ח שלי מסמכים בעזרת IFTTT, וקיבלתי מבול של שאלות מחברים טובים שרוצים פרטים, אז הנה הסוד:\n\n1. מנהלת החשבונות שלכם צריכה דרופבוקס. זה החלק הכי קשה. אני נסעתי אליה למשרד, התקנתי לה דרופבוקס, ישבתי לידה עם הלפטופ והראיתי לה איך אני משתף איתה מסמך והוא מופיע לה במחשב אוטומטית. הפרצוף שלה באותו רגע - פרייסלס.\n\n2. צרו חשבון ג'ימייל חדש והתחילו לנתב אליו את כל החשבוניות הדיגיטליות שלכם. זה לוקח הרבה מאד זמן לעדכן את כל העולם בכתובת החדשה, אבל זה שווה את המאמץ. בשאיפה הארגון שלכם יגדל ויום אחד מישהו אחר יתעסק עם החשבוניות, להפריד כבר היום זו השקעה חכמה.\n\n3. עד שכל העולם ואשתו יכירו את הכתובת החדשה, צרו חוקים במייל שלכם ובצעו fwd אוטומטי לאימיילים עם חשבוניות (הכי קל זה לפי שורת הנושא) לכתובת החדשה שיצרתם.\n\n4. הגדירו ב IFTTT חוק שלוקח את הקובץ המצורף מכל אימייל חדש שמגיע ושומר אותו בספריית הדרופבוקס ששיתפתם עם הנה\"ח.\n\nהערות: \nא. מומלץ להגדיר שהספריה ששיתפתם היא לקריאה בלבד ע\"י צוות הנה\"ח. זה לא ברור לכולם שכשמוחקים קובץ במחשב אחד זה נמחק אצל כולם.\nב. יש קבצים ש IFTTT לא מצליח לשמור. לדוגמה חשבוניות של גוגל וגם חשבוניות של גטטקסי. לא יודע למה זה קורה אולי זה מבנה הקובץ. אבל זה לא ביג דיל. קבצים כאלה תצטרכו לשמור בדרופבוקס ידנית.\nג. יש חשבוניות שמגיעות כאימייל טקסטואלי ולא עם קובץ מצורף. ראו סעיף ב'.\n\nותודה ל Dan Porat שממנו הגיע הרעיון.",
+		"message_tags": {
+		  "1261": [{
+			"id": "10154155413475609",
+			"name": "Dan Porat",
+			"type": "user",
+			"offset": 1261,
+			"length": 9
+		  }]
+		},
+		"actions": [{
+		  "name": "Like",
+		  "link": "https://www.facebook.com/434228236734415/posts/579743955516175"
+		}],
+		"privacy": {
+		  "value": "",
+		  "description": "",
+		  "friends": "",
+		  "allow": "",
+		  "deny": ""
+		},
+		"type": "status",
+		"created_time": "2016-01-06T17:50:16+0000",
+		"updated_time": "2016-03-09T09:35:04+0000",
+		"is_hidden": false,
+		"is_expired": false,
+		"likes": {
+		  "data": [{
+			"id": "10207117846727185",
+			"name": "Yaelly Berger"
+		  }, {
+			"id": "10154283880624291",
+			"name": "Nirit Gadasi"
+		  }, {
+			"id": "10154346946846458",
+			"name": "Liby Katz"
+		  }, {
+			"id": "10208436219756763",
+			"name": "Uri Goren"
+		  }, {
+			"id": "10153423144596324",
+			"name": "Amitay Tweeto"
+		  }, {
+			"id": "10154320848139696",
+			"name": "Yalon Pachman"
+		  }, {
+			"id": "10209907157584041",
+			"name": "Tal Peretz"
+		  }, {
+			"id": "10153724233996009",
+			"name": "Guy Franklin"
+		  }, {
+			"id": "10154982177954867",
+			"name": "Reem Sherman"
+		  }, {
+			"id": "10154415393572994",
+			"name": "Shachar Nahari"
+		  }, {
+			"id": "10153649600313144",
+			"name": "Tal Niego"
+		  }, {
+			"id": "10208761392208647",
+			"name": "Itzik Hillel"
+		  }, {
+			"id": "10154099885871154",
+			"name": "Dalit Heldenberg"
+		  }, {
+			"id": "10154020116587935",
+			"name": "Effy Teva"
+		  }, {
+			"id": "10154279278008767",
+			"name": "Nilli Alon Donner"
+		  }, {
+			"id": "10154395760750854",
+			"name": "Elinor Danon"
+		  }, {
+			"id": "10153967808084219",
+			"name": "Idan Ratzabi"
+		  }, {
+			"id": "10157031673380654",
+			"name": "Dana Rozen"
+		  }, {
+			"id": "10153665755231517",
+			"name": "Ohad Ben-Gad"
+		  }, {
+			"id": "10154231300849757",
+			"name": "Roy Lerner"
+		  }, {
+			"id": "10153844668178165",
+			"name": "Shimon Doodkin"
+		  }, {
+			"id": "10153831819449150",
+			"name": "Ron Sokolovsky"
+		  }, {
+			"id": "10207479291115183",
+			"name": "Rony Comm"
+		  }, {
+			"id": "1042238232536682",
+			"name": "Adi Ben Mayor"
+		  }, {
+			"id": "10153851943077833",
+			"name": "Yossi Elkrief"
+		  }],
+		  "paging": {
+			"cursors": {
+			  "before": "MTAyMDcxMTc4NDY3MjcxODUZD",
+			  "after": "MTAxNTM4NTE5NDMwNzc4MzMZD"
+			},
+			"next": "https://graph.facebook.com/v2.0/434228236734415_579743955516175/likes?access_token=501986036514690%7CWhOAHes5DYXHwf8L47-nb910SxI&pretty=1&limit=25&after=MTAxNTM4NTE5NDMwNzc4MzMZD"
+		  }
+		},
+		"comments": {
+		  "data": [{
+			"created_time": "2016-01-06T17:51:22+0000",
+			"from": {
+			  "name": "Yair Bar-On",
+			  "id": "10154309565306514"
+			},
+			"message": "Miriam Schwab",
+			"can_remove": false,
+			"like_count": 1,
+			"message_tags": [{
+			  "id": "10157316573550727",
+			  "length": 13,
+			  "name": "Miriam Schwab",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "579744125516158"
+		  }, {
+			"created_time": "2016-01-06T17:52:44+0000",
+			"from": {
+			  "name": "Moran Shaked",
+			  "id": "10153854355118195"
+			},
+			"message": "\"הפרצוף שלה באותו רגע - פרייסלס\" - פרייסלס!",
+			"can_remove": false,
+			"like_count": 5,
+			"user_likes": false,
+			"id": "579744312182806"
+		  }, {
+			"created_time": "2016-01-06T17:54:23+0000",
+			"from": {
+			  "name": "Ohad Oren",
+			  "id": "541273299390280"
+			},
+			"message": "מעולה!",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "579744658849438"
+		  }, {
+			"created_time": "2016-01-06T17:55:43+0000",
+			"from": {
+			  "name": "Almog Baku",
+			  "id": "10154287651227964"
+			},
+			"message": "נשמע מגניב.. אבל האמת שזה נשמע שיש פה יותר פוטנציאל לדברים להשתבש מאשר השיטה הישנה(כל מנהל מדרג מסויים מרכז את זה ומעביר הלאה בשרשרת)",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "579744818849422"
+		  }, {
+			"created_time": "2016-01-06T18:04:19+0000",
+			"from": {
+			  "name": "Yair Bar-On",
+			  "id": "10154309565306514"
+			},
+			"message": "אלמוג, פה זה פורום סטארטאפים, אין כאן דרגים ניהולים :)",
+			"can_remove": false,
+			"like_count": 19,
+			"user_likes": false,
+			"id": "579746568849247"
+		  }, {
+			"created_time": "2016-01-06T18:26:00+0000",
+			"from": {
+			  "name": "Sagee Ben-Zedeff",
+			  "id": "10153938580378218"
+			},
+			"message": "חשבוניות דיגיטליות זה קל. אני פשוט עושה פורוורד למנהלת החשבונות. \nאבל מה עם חשבוניות פיזיות? יש לך IFTTT?!",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "579750035515567"
+		  }, {
+			"created_time": "2016-01-06T19:53:43+0000",
+			"from": {
+			  "name": "Lior Frenkel",
+			  "id": "10154386350632642"
+			},
+			"message": "מדהים. אני אגב עושה משהו דומה עם גוגל דרייב עם הרוח שלי",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "579782595512311"
+		  }, {
+			"created_time": "2016-01-06T20:38:17+0000",
+			"from": {
+			  "name": "Maxim Veksler",
+			  "id": "10154134328360049"
+			},
+			"message": "אנחנו דואגים לשמור הכל במבנה מסודר בדרופבוקס בתיקייה בשם !current :\n\nin \nout \n - [name]\n - credit\n - wire\n\nואז אורזים בסוף כל חודש ושולחים לרו״ח קובץ זיפ. \nחשבוניות דיגיטליות עם קבצים מצורפים נשמרות ישירות, חשבוניות שהן האימייל עצמו מודפסות מתוך Spark כ pdf ונשמרות בתיקייה גם כן. חשבוניות פיסיות נסרקות עם Scanbot לתוך iCloud Drive ואז אני נכנס מהמק ומעביר לדרופבוקס גם כן.\n\nכמו כן יש לי בפיינדר לינק ל !current כך שמכל מקום אני יכול בקלות לגשת למקום הרלוונטי בשני קליקים.\n\nאנחנו עוד משכללים את התהליך הזה, אבל ירדנו מיומיים של עבודה בסוף כל חודש לשלוח חשבוניות לרו״ח לשעתיים עבודה. זה עדיין שעתיים יותר ממה שאני רוצה להשקיע בזה, אבל זה משמעותית חסכון לעומת מה שהיה לנו לפני כן.",
+			"can_remove": false,
+			"like_count": 4,
+			"user_likes": false,
+			"id": "579795488844355"
+		  }, {
+			"created_time": "2016-01-07T07:56:17+0000",
+			"from": {
+			  "name": "Tamar Haramati",
+			  "id": "10154344521691474"
+			},
+			"message": "Jonathan Doweck",
+			"can_remove": false,
+			"like_count": 1,
+			"message_tags": [{
+			  "id": "10154318686133829",
+			  "length": 15,
+			  "name": "Jonathan Doweck",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "580001155490455"
+		  }, {
+			"created_time": "2016-01-07T08:00:03+0000",
+			"from": {
+			  "name": "Yair Bar-On",
+			  "id": "10154309565306514"
+			},
+			"message": "Maxim Veksler זיפ זה למתקדמים :-)",
+			"can_remove": false,
+			"like_count": 1,
+			"message_tags": [{
+			  "id": "10154134328360049",
+			  "length": 13,
+			  "name": "Maxim Veksler",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "580001578823746"
+		  }, {
+			"created_time": "2016-01-07T09:19:09+0000",
+			"from": {
+			  "name": "Miriam Schwab",
+			  "id": "10157316573550727"
+			},
+			"message": "אוף משרד מנהלי חשבונות שלי מסרב להדפיס עבורי ואני חייבת לשלוח הכל מודפס. אבל הם מעולים. מבאס נורא :(",
+			"can_remove": false,
+			"like_count": 3,
+			"user_likes": false,
+			"id": "580017185488852"
+		  }, {
+			"created_time": "2016-01-07T09:56:23+0000",
+			"from": {
+			  "name": "Yair Bar-On",
+			  "id": "10154309565306514"
+			},
+			"message": "נשמע לי שכרגע הסברת שהם לא כל כך מעולים. מה אני מפספס? תגידי לו שהחלטת שזה הכרחי, גם אם הוא יגבה ממך עוד 200 שח לחודש על הדפסות זה שווה את הזמן שלך.",
+			"can_remove": false,
+			"like_count": 5,
+			"user_likes": false,
+			"id": "580022082155029"
+		  }, {
+			"created_time": "2016-01-07T11:59:20+0000",
+			"from": {
+			  "name": "David Paluy",
+			  "id": "10153810720995838"
+			},
+			"message": "Miriam Schwab הסיבה שהרו״ח שלך דורש הכל מודפס, כי במקרה של ביקורת עליו להציג את התיק חברה עם החשבוניות מודפסות בלבד.\nהפתרון שאני הצעתי למזג את כל החשבוניות דיגיטליות לתוך קובץ אחד שיהיה קל להדפיס בעת הצורך. הרו״ח הסכים לכך",
+			"can_remove": false,
+			"like_count": 0,
+			"message_tags": [{
+			  "id": "10157316573550727",
+			  "length": 13,
+			  "name": "Miriam Schwab",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "580057602151477"
+		  }, {
+			"created_time": "2016-01-07T15:17:44+0000",
+			"from": {
+			  "name": "Sapir Hershkoviz",
+			  "id": "10154217648373444"
+			},
+			"message": "IFTTT כלי מדהים\nממליצה בחום להכנס לראות איזה עוד אפשרויות יש לאתר להציע, יש מגוון ענק של אפשרויות.",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "580110518812852"
+		  }, {
+			"created_time": "2016-01-07T17:43:54+0000",
+			"from": {
+			  "name": "דוד פלג",
+			  "id": "1183338025052166"
+			},
+			"message": "רעיון מעולה. יש גם את Zapier. המתחרים של IFTTT שיותר מקצועיים.\n\nושים לב לגבי פרטיות - קח בחשבון שכל מי שבדרך עלול לקרא את התכנים. במודע או עקב פריצה של האקר צד ג' למערכותיו...",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "580163078807596"
+		  }, {
+			"created_time": "2016-01-07T17:56:49+0000",
+			"from": {
+			  "name": "Effy Teva",
+			  "id": "10154020116587935"
+			},
+			"message": "רעיון מעולה, זה יכול לחסוך הרבה שעות עבודה גם למי שמוציא את החשבוניות, וגם למנהל החשבונות שמקבל אותן.\n\n(חלק שיווקי בתגובה) \nאם עובדים עם ניהול חשבונות של המערכת שלנו - OfficeGuy, הגדרת ברירת המחדל, היא שהמערכת שולחת כל חודש לרואה החשבון במייל את כל הפעילות שעשית. בלי התעסקות של IFTTT או Zapier, ובלי הרבה מקום לטעויות.",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "580166292140608"
+		  }, {
+			"created_time": "2016-01-07T22:05:16+0000",
+			"from": {
+			  "name": "Nadav Saadia",
+			  "id": "10154359875312472"
+			},
+			"message": "Itay Nagler",
+			"can_remove": false,
+			"like_count": 0,
+			"message_tags": [{
+			  "id": "10153758826678100",
+			  "length": 11,
+			  "name": "Itay Nagler",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "580223865468184"
+		  }, {
+			"created_time": "2016-03-08T17:58:52+0000",
+			"from": {
+			  "name": "Shahar Goldman",
+			  "id": "10154336063859851"
+			},
+			"message": "אהלן, מעט באיחור אך מכיוון ששאלו אותי בהתייחס לפוסט הזה אני כבר אגיב לכולם..\nבמערכת שלנו אפשר להגדיר הורדה וסנכרון אוטומטיים לתיקיית דרופבוקס, לא צריך לנסות בדרכים עקיפות :-)\nאפשר גם להדפיס את כל המסמכים של תקופה מסויימת בלחיצה.\n\nבנוסף למערכת שלנו יש הרבה מערכות שנותנות פתרונות נוחים מול רואי חשבון ובהתנהלות של סוף החודש, חבל להסתבך עם דרכים ידניות כשתוכלו לקבל את זה מובנה בחלק מהמערכות הקיימות בשוק.",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "605351199622117"
+		  }, {
+			"created_time": "2016-03-08T18:36:51+0000",
+			"from": {
+			  "name": "Mike Polatsek",
+			  "id": "1219817984715141"
+			},
+			"message": "Omer Taran",
+			"can_remove": false,
+			"like_count": 0,
+			"message_tags": [{
+			  "id": "10209935353003556",
+			  "length": 10,
+			  "name": "Omer Taran",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "605360686287835"
+		  }],
+		  "paging": {
+			"cursors": {
+			  "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAOVGM1TnpRME1USTFOVEUyTVRVNE9qRTBOVEl4TURJMk9ETT0ZD",
+			  "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAOakExTXpZAd05qZAzJNamczT0RNMU9qRTBOVGMwTmpJeU1URT0ZD"
+			}
+		  }
+		}
+	  }
+	},
+	  "objectID" : "318231100"  },
+
+	 {
+      "question":{
+	  "date": "12/12/2015",
+	  "rating": 44,
+	  "id": "434228236734415_569416026548968",
+	  "groupName": "השבוע: שאלות ותשובות על סטארטאפים",
+	  "personName": "Meir Dahan",
+	  "message": "הנה ציור אוטופי :\nיש לכם סטארטאפ, ואתם חושבים שיש לכם מוצר מנצח, יש לכם צוות, יש לכם MVP, יש לכם מכירות ראשונות. יש לכם הכנסות ראשונות. ולמרות שהכל בשקט מתחת לראדר, יש לכם פניות ממשקיעים ראשונים. חלום של כל יזם.\n\nואז אתם מקבלים שיגעון גדלות, ואתם אומרים לעצמכם, שאם אנחנו הולכים לגייס כסף, נעשה את זה על פי התנאים שלנו, אנחנו נכתוב את מסמך ההבנות, ולאחר מכן אנחנו נכתוב את הסכם ההשקעה. מציאותי ? בעיני זה מאוד פשוט ומציאותי.\n\nואז אתם נזכרים שהקבוצה הזאת קיימת (תודה לאל)... :-)\nאז הנה רעיון משוגע - למה שלא נכין כולנו מסמך הבנות ראשוני ליזמים במצב הזה, או בכלל לכל היזמים. מסמך שיהיה הבסיס הנכון לכל היזמים מבלי שנצטרך לקבל כמובן מאליו מסמך של המשקיעים שמן הסתם נוטה לטובתם ? זה אינטרס שלנו לדאוג לעצמנו, להבין לאן נכנסים... לדעתי זה יכול להיות ענק.\n\nהרי יש כאן את כל הידע והיכולת לעשות את זה. יש כאן את האנשים הכי טובים בעולם שרוצים באמת לעזור ליזמים אחרים, וזה הרי מועיל לכולם, זה מקטין בעיות לכולם, זה מלמד, זה מעשיר, זה בדיוק מה שצריך להיות. איך לא עשו את זה עד עכשיו ?\nלוקחים מסמך בסיסי, הופכים אותו למסמך שיתופי, בגוגל דוקס למשל. שכל אחד החברים המנוסים כאן, יכול לראות, להגיב, להוסיף, לנטרל מוקשים, ללמוד ממנו, ובעיקר לעוזר לאחרים להגיע למסמך שהוא טוב מול המשקיעים המקצועיים.\nלדעתי, זה שינוי כללי המשחק לטובתינו. וזאת סנונית ראשונה למסמכים הבאים.\nוזה יכול להיות נקודת מפנה לכל כך הרבה מיזמים.\nמי מהחברים כאן מתחיל לשנות את העתיד ?",
+	  "url": "https://www.facebook.com/434228236734415/posts/569416026548968",
+	  "personId": "10155120809258561",
+	  "obj": {
+		"id": "434228236734415_569416026548968",
+		"from": {
+		  "name": "Meir Dahan",
+		  "id": "10155120809258561"
+		},
+		"message": "הנה ציור אוטופי :\nיש לכם סטארטאפ, ואתם חושבים שיש לכם מוצר מנצח, יש לכם צוות, יש לכם MVP, יש לכם מכירות ראשונות. יש לכם הכנסות ראשונות. ולמרות שהכל בשקט מתחת לראדר, יש לכם פניות ממשקיעים ראשונים. חלום של כל יזם.\n\nואז אתם מקבלים שיגעון גדלות, ואתם אומרים לעצמכם, שאם אנחנו הולכים לגייס כסף, נעשה את זה על פי התנאים שלנו, אנחנו נכתוב את מסמך ההבנות, ולאחר מכן אנחנו נכתוב את הסכם ההשקעה. מציאותי ? בעיני זה מאוד פשוט ומציאותי.\n\nואז אתם נזכרים שהקבוצה הזאת קיימת (תודה לאל)... :-)\nאז הנה רעיון משוגע - למה שלא נכין כולנו מסמך הבנות ראשוני ליזמים במצב הזה, או בכלל לכל היזמים. מסמך שיהיה הבסיס הנכון לכל היזמים מבלי שנצטרך לקבל כמובן מאליו מסמך של המשקיעים שמן הסתם נוטה לטובתם ? זה אינטרס שלנו לדאוג לעצמנו, להבין לאן נכנסים... לדעתי זה יכול להיות ענק.\n\nהרי יש כאן את כל הידע והיכולת לעשות את זה. יש כאן את האנשים הכי טובים בעולם שרוצים באמת לעזור ליזמים אחרים, וזה הרי מועיל לכולם, זה מקטין בעיות לכולם, זה מלמד, זה מעשיר, זה בדיוק מה שצריך להיות. איך לא עשו את זה עד עכשיו ?\nלוקחים מסמך בסיסי, הופכים אותו למסמך שיתופי, בגוגל דוקס למשל. שכל אחד החברים המנוסים כאן, יכול לראות, להגיב, להוסיף, לנטרל מוקשים, ללמוד ממנו, ובעיקר לעוזר לאחרים להגיע למסמך שהוא טוב מול המשקיעים המקצועיים.\nלדעתי, זה שינוי כללי המשחק לטובתינו. וזאת סנונית ראשונה למסמכים הבאים.\nוזה יכול להיות נקודת מפנה לכל כך הרבה מיזמים.\nמי מהחברים כאן מתחיל לשנות את העתיד ?",
+		"actions": [{
+		  "name": "Like",
+		  "link": "https://www.facebook.com/434228236734415/posts/569416026548968"
+		}],
+		"privacy": {
+		  "value": "",
+		  "description": "",
+		  "friends": "",
+		  "allow": "",
+		  "deny": ""
+		},
+		"type": "status",
+		"created_time": "2015-12-12T17:12:21+0000",
+		"updated_time": "2015-12-15T10:19:31+0000",
+		"is_hidden": false,
+		"is_expired": false,
+		"likes": {
+		  "data": [{
+			"id": "10154279278008767",
+			"name": "Nilli Alon Donner"
+		  }, {
+			"id": "10153654705025069",
+			"name": "Yoav HaCohen"
+		  }, {
+			"id": "10154308906943762",
+			"name": "Nativ Levy"
+		  }, {
+			"id": "10154095366452559",
+			"name": "Ya'ara Cohen"
+		  }, {
+			"id": "10153927820427479",
+			"name": "Ohad Yaniv"
+		  }, {
+			"id": "1033387596696587",
+			"name": "Hadas Pe'er"
+		  }, {
+			"id": "10154634843406165",
+			"name": "Udi Aharoni"
+		  }, {
+			"id": "1042238232536682",
+			"name": "Adi Ben Mayor"
+		  }, {
+			"id": "10154310859298415",
+			"name": "Zigi Zigmond"
+		  }, {
+			"id": "10154046867823880",
+			"name": "Michael Litner"
+		  }, {
+			"id": "10208930157718485",
+			"name": "Aaron Amir"
+		  }, {
+			"id": "10154395760750854",
+			"name": "Elinor Danon"
+		  }, {
+			"id": "10208484023552530",
+			"name": "Nes Carmon"
+		  }, {
+			"id": "1116236828448681",
+			"name": "Mark Vaykhansky"
+		  }, {
+			"id": "10154342219624588",
+			"name": "Ido Lazar"
+		  }, {
+			"id": "10206759667726634",
+			"name": "Yossi Tevner"
+		  }, {
+			"id": "10154227201262456",
+			"name": "Dana Cohen Baron"
+		  }, {
+			"id": "10208423271033884",
+			"name": "Avinoam Ashkenazy"
+		  }, {
+			"id": "543303495856873",
+			"name": "Aharon Rozazada"
+		  }, {
+			"id": "10209540393487642",
+			"name": "Chen Tessler"
+		  }, {
+			"id": "10153805966571376",
+			"name": "Tom Reuveni"
+		  }, {
+			"id": "10154336073159846",
+			"name": "Tzvika Barenholz"
+		  }, {
+			"id": "590883104413670",
+			"name": "Bachya Yaakov Bergman"
+		  }, {
+			"id": "10208843575060402",
+			"name": "Or Azulay"
+		  }, {
+			"id": "1393327564015892",
+			"name": "Amit Yazdan"
+		  }],
+		  "paging": {
+			"cursors": {
+			  "before": "MTAxNTQyNzkyNzgwMDg3NjcZD",
+			  "after": "MTM5MzMyNzU2NDAxNTg5MgZDZD"
+			},
+			"next": "https://graph.facebook.com/v2.0/434228236734415_569416026548968/likes?access_token=501986036514690%7CWhOAHes5DYXHwf8L47-nb910SxI&pretty=1&limit=25&after=MTM5MzMyNzU2NDAxNTg5MgZDZD"
+		  }
+		},
+		"comments": {
+		  "data": [{
+			"created_time": "2015-12-12T17:20:29+0000",
+			"from": {
+			  "name": "Eli Klaiman",
+			  "id": "10208023600842478"
+			},
+			"message": "בארה\"ב יש משהו דומה. למשל מסמכי SEED. ונראה שזה בהחלט עובד שם הרבה פעמים. http://www.seriesseed.com/",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "569417886548782"
+		  }, {
+			"created_time": "2015-12-12T17:39:49+0000",
+			"from": {
+			  "name": "Haran Wolfovitz Yaffe",
+			  "id": "10157146828195584"
+			},
+			"message": "כל הכבוד על היוזמה מאיר",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "569421203215117"
+		  }, {
+			"created_time": "2015-12-12T17:48:06+0000",
+			"from": {
+			  "name": "Weissman Shimon",
+			  "id": "10210133250270911"
+			},
+			"message": "רק שאבין - מצד אחד יש את המשקיעים וסוללת עורכי דין - ומצד שני יש מה? קבוצת יזמים בפייסבוק? לי נראה שאם אני אעמוד מול מצב שחברת VC רוצה להשקיע בי מיליוני דולר - אני אצלצל לעורך דין טוב... אבל זה רק אני - מוזר כזה...",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "569422759881628"
+		  }, {
+			"created_time": "2015-12-12T17:56:30+0000",
+			"from": {
+			  "name": "David Raz",
+			  "id": "10208733844117394"
+			},
+			"message": "הי מאיר, אני חושב שכבר קיימים כמה מסמכים כאלה. יש את. SAFE של YC (הנפקת הון עתידית לאנג'לים) ואת KISS של 500 startups (הלוואה המירה). ל YC יש גם מסמך שמיועד לסבב A אבל יכול לשמש גם כבסיס לסיד אם מנפיקים בו הון. אני מניח שיש עוד פורמטים טובים ברחבי הרשת. \nבכל אופן, אתה לא חושב ששווה לעשות את השלב הזה בליווי עורך דין טוב?",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "569424139881490"
+		  }, {
+			"created_time": "2015-12-12T17:56:53+0000",
+			"from": {
+			  "name": "David Elharar",
+			  "id": "10104715912640118"
+			},
+			"message": "Toni Cohen",
+			"can_remove": false,
+			"like_count": 0,
+			"message_tags": [{
+			  "id": "10154162578394333",
+			  "length": 10,
+			  "name": "Toni Cohen",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "569424209881483"
+		  }, {
+			"created_time": "2015-12-12T18:02:30+0000",
+			"from": {
+			  "name": "Jonathan Klinger",
+			  "id": "10153781740901295"
+			},
+			"message": "כתבתי על זה לפני כמה שבועות. \n\nhttps://www.jonathanklinger.com/?p=386",
+			"can_remove": false,
+			"like_count": 3,
+			"user_likes": false,
+			"id": "569425209881383"
+		  }, {
+			"created_time": "2015-12-12T18:10:35+0000",
+			"from": {
+			  "name": "Yatir Zaluski",
+			  "id": "10154312878294931"
+			},
+			"message": "Meir Dahan אם המשקיעים מגלים עניין למה שלקוחות לא יגלו גם עניין ואז יזם שחושב אסטרטגית ינסה לבנות איזה POC טוב מול לקוחות ולשפר עמדות מול המשקיעים?אני מניח שהמוצר עבר דרגת בשלות מסויימת ליציאה לשוק",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "569426503214587"
+		  }, {
+			"created_time": "2015-12-12T19:13:26+0000",
+			"from": {
+			  "name": "Dvori Stoler-Fouquet",
+			  "id": "279863255700877"
+			},
+			"message": "זה לא רעיון משוגע, באקסלרטור ׳סטארטאפ בוט קאמפ׳ מציידים אותך במסמך הבנות, זה חלק ממה שאתה מקבל מהאקסלרטור. \nאני לא יודעת מה קורה באקסלרטורים. אחרים. כך שזה לא רעיון משוגע 👍",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "569437476546823"
+		  }, {
+			"created_time": "2015-12-12T19:35:26+0000",
+			"from": {
+			  "name": "Gil Eyal",
+			  "id": "10156977155325004"
+			},
+			"message": "בארהב זה קיים: http://nvca.org/resources/model-legal-documents/",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "569440939879810"
+		  }, {
+			"created_time": "2015-12-12T20:19:09+0000",
+			"from": {
+			  "name": "Yair Bar-On",
+			  "id": "10154309565306514"
+			},
+			"message": "Check out KISS from 500 startups",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "569449193212318"
+		  }, {
+			"created_time": "2015-12-13T14:18:40+0000",
+			"from": {
+			  "name": "Ohad Yaniv",
+			  "id": "10153927820427479"
+			},
+			"message": "רעיון מעולה.",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "569677059856198"
+		  }, {
+			"created_time": "2015-12-13T15:31:37+0000",
+			"from": {
+			  "name": "Almog Baku",
+			  "id": "10154287651227964"
+			},
+			"message": "YC's SAFE.....?",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "569702129853691"
+		  }, {
+			"created_time": "2015-12-14T21:29:52+0000",
+			"from": {
+			  "name": "Eli Klaiman",
+			  "id": "10208023600842478"
+			},
+			"message": "לדעתי לא קיים ברשת מסמך כזה שהוא לטובת הסטארטאפ.",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "570170646473506"
+		  }, {
+			"created_time": "2015-12-15T09:09:47+0000",
+			"from": {
+			  "name": "Weissman Shimon",
+			  "id": "10210133250270911"
+			},
+			"message": "ואפילו אם קיים מכתב כזה - זה שקול למי שרוצה לשכור דירה ומגיע למשכיר הדירה ומציע לו חוזה שכירות. הרי מי שמסכן את רכושו כאן זה המשקיע.",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "570325179791386"
+		  }],
+		  "paging": {
+			"cursors": {
+			  "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAOVFk1TkRFM09EZAzJOVFE0TnpneU9qRTBORGs1TkRBNE1qaz0ZD",
+			  "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAOVGN3TXpJMU1UYzVOemt4TXpnMk9qRTBOVEF4TnpBMU9EYz0ZD"
+			}
+		  }
+		}
+	  }
+	},
+	  "objectID" : "318235640"  },
+
+ {
+      "question":	{
+	  "date": "08/12/2015",
+	  "rating": 28,
+	  "id": "434228236734415_567665133390724",
+	  "groupName": "השבוע: שאלות ותשובות על סטארטאפים",
+	  "personName": "Nitzan Pesach Peles",
+	  "message": "בוקר אור חברים!\nאחרי עבודה של כמה שנים עם סטארטאפים, ואחרי שראיתי שרוב המיזמים נכשלים בגלל היעדר צורך בשוק למוצר שלהם, יצרתי לאחרונה מסגרת של עבודה והנחיה למיזמים צעירים שרוצים לקבל במהירות האור תשובה על השאלה \"האם השוק צריך את המוצר שלי?\" (ועל הדרך להתנסות במגוון של חוויות קריטיות ליזם, כמו למשל \"איך למכור\"...):\nhttp://j.mp/privatea \nאשמח לשמוע את דעתכם,\nואם אתם מכירים סטארטאפים שיוכלו להיעזר בזה - אשמח אם תפנו אותם אליי:",
+	  "url": "https://www.facebook.com/434228236734415/posts/567665133390724",
+	  "personId": "10154216890378326",
+	  "obj": {
+		"id": "434228236734415_567665133390724",
+		"from": {
+		  "name": "Nitzan Pesach Peles",
+		  "id": "10154216890378326"
+		},
+		"message": "בוקר אור חברים!\nאחרי עבודה של כמה שנים עם סטארטאפים, ואחרי שראיתי שרוב המיזמים נכשלים בגלל היעדר צורך בשוק למוצר שלהם, יצרתי לאחרונה מסגרת של עבודה והנחיה למיזמים צעירים שרוצים לקבל במהירות האור תשובה על השאלה \"האם השוק צריך את המוצר שלי?\" (ועל הדרך להתנסות במגוון של חוויות קריטיות ליזם, כמו למשל \"איך למכור\"...):\nhttp://j.mp/privatea \nאשמח לשמוע את דעתכם,\nואם אתם מכירים סטארטאפים שיוכלו להיעזר בזה - אשמח אם תפנו אותם אליי:",
+		"picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAv0keb2Gqaa1_r&w=130&h=130&url=http%3A%2F%2Fassets.strikingly.com%2Fassets%2Ffb_images%2Fdefault-45f4d78a285c65997137ff1963cfb1c8.png&cfs=1",
+		"link": "http://j.mp/privatea",
+		"name": "The Private Startups Accelerator",
+		"caption": "private-accelerator.strikingly.com",
+		"description": "The Private Accelerator is a personal and time-limited mentoring framework for young startup-teams, wishing to succeed executing an immediate market validation, in order to reach a definite answer: “does anyone actually need my product?”",
+		"icon": "https://www.facebook.com/images/icons/post.gif",
+		"actions": [{
+		  "name": "Like",
+		  "link": "https://www.facebook.com/434228236734415/posts/567665133390724"
+		}],
+		"privacy": {
+		  "value": "",
+		  "description": "",
+		  "friends": "",
+		  "allow": "",
+		  "deny": ""
+		},
+		"type": "link",
+		"status_type": "shared_story",
+		"created_time": "2015-12-08T07:44:05+0000",
+		"updated_time": "2015-12-09T10:47:36+0000",
+		"is_hidden": false,
+		"is_expired": false,
+		"likes": {
+		  "data": [{
+			"id": "1218687444809130",
+			"name": "Shlomi Kosakovski"
+		  }, {
+			"id": "10206662176618538",
+			"name": "Or Ben Shimon"
+		  }, {
+			"id": "10153883888004542",
+			"name": "Yaniv Tross"
+		  }, {
+			"id": "1074375955951212",
+			"name": "David Fastovich"
+		  }, {
+			"id": "10153710357882584",
+			"name": "Hadar Shabat"
+		  }, {
+			"id": "10154117798545590",
+			"name": "Ran Magen"
+		  }, {
+			"id": "1056301971090869",
+			"name": "Shoshi Malik Tichover"
+		  }, {
+			"id": "10154194030792976",
+			"name": "Eden Vidal"
+		  }, {
+			"id": "10153525506172676",
+			"name": "Nir Dror"
+		  }, {
+			"id": "10208582564496109",
+			"name": "Yael Maroko-Freud"
+		  }, {
+			"id": "10210106975773147",
+			"name": "Elisha Cohen"
+		  }, {
+			"id": "10208843575060402",
+			"name": "Or Azulay"
+		  }, {
+			"id": "1213643328660516",
+			"name": "Maor Shahar"
+		  }, {
+			"id": "10154402455209260",
+			"name": "Tami Parizat-Shellef"
+		  }, {
+			"id": "1646632425660130",
+			"name": "גליה אלמליח-הרמן"
+		  }, {
+			"id": "10209672030342160",
+			"name": "Raz Itzhakian"
+		  }, {
+			"id": "10153874624538883",
+			"name": "Keshet Rosenthal"
+		  }, {
+			"id": "10154634843406165",
+			"name": "Udi Aharoni"
+		  }, {
+			"id": "10154393758886495",
+			"name": "Stav Erez"
+		  }, {
+			"id": "10154227784082660",
+			"name": "Anat Eshel"
+		  }, {
+			"id": "10154476386968394",
+			"name": "Liran Tadmor"
+		  }, {
+			"id": "10155051433780550",
+			"name": "Demi Ben-Ari"
+		  }, {
+			"id": "10153911158769412",
+			"name": "Ariel Kedem"
+		  }, {
+			"id": "10154230020663828",
+			"name": "Tzvika Avnery"
+		  }, {
+			"id": "10154323946471941",
+			"name": "Gil Krause"
+		  }],
+		  "paging": {
+			"cursors": {
+			  "before": "MTIxODY4NzQ0NDgwOTEzMAZDZD",
+			  "after": "MTAxNTQzMjM5NDY0NzE5NDEZD"
+			},
+			"next": "https://graph.facebook.com/v2.0/434228236734415_567665133390724/likes?access_token=501986036514690%7CWhOAHes5DYXHwf8L47-nb910SxI&pretty=1&limit=25&after=MTAxNTQzMjM5NDY0NzE5NDEZD"
+		  }
+		},
+		"comments": {
+		  "data": [{
+			"created_time": "2015-12-08T07:49:54+0000",
+			"from": {
+			  "name": "Michael Lugassy",
+			  "id": "10153627957808021"
+			},
+			"message": "heck, why not? where do i signup?",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "567666236723947"
+		  }, {
+			"created_time": "2015-12-08T08:09:56+0000",
+			"from": {
+			  "name": "Yair Bar-On",
+			  "id": "10154309565306514"
+			},
+			"message": "ולמרות שהשאלה שלי תישמע קצת מצחיקה אשאל בכל זאת, איך הגעת למסקנה שהשוק צריך מוצר שעונה על השאלה האם השוק צריך מוצר? :)",
+			"can_remove": false,
+			"like_count": 16,
+			"user_likes": false,
+			"id": "567671753390062"
+		  }, {
+			"created_time": "2015-12-08T08:13:03+0000",
+			"from": {
+			  "name": "Ariel Kedem",
+			  "id": "10153911158769412"
+			},
+			"message": "מעניין. זה רלוונטי לכל סוג של מוצר?",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "567672643389973"
+		  }, {
+			"created_time": "2015-12-08T08:31:24+0000",
+			"from": {
+			  "name": "Nitzan Pesach Peles",
+			  "id": "10154216890378326"
+			},
+			"message": "נושא חם :-)\nפתאום ראיתי שבן כתב על זה אתמול...\nhttps://www.facebook.com/groups/Hashavua/permalink/567418190082085/",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "567675256723045"
+		  }, {
+			"created_time": "2015-12-08T08:42:47+0000",
+			"from": {
+			  "name": "Eli Lavi",
+			  "id": "10154392935311392"
+			},
+			"message": "צר לי ידידי, אבל קשה לי להסכים איתך. (לא נכנסתי לקישור) לפי הדברים שציינת לדעתי לא קיים כזה דבר היעדר צורך (יהיו שיחלקו עליי זה בסדר. אך כאיש פרסום ראיתי עשרות מוצרים ללא צורך שנכנסו לשוק ושינו את ההרגלים של כולנו) מה שיכול להיות קיים זה תחליפים לפתרון שיקשו על הכניסה לשוק (במילים אחרות נקרא להם מתחרים) זה כבר תפקידו של השיווק - לעורר את הצורך בדבר.\nכשסטיב ג'ובס המציא את האייפוד כולם עיקמו פרצוף ואמרו מי צריך את זה. בעזרת מיתוג ושיווק נכון הפכו את זה למכשיר הנחשק בעולם.\n\nטכנולוגיות חדשות מולידות צרכים חדשים שצרכנים כלל לא מודעים אליהם. היום מעט מאוד אנשים משתמשים בטכנולוגיות של בית חכם. בעוד כמה שנים זה ייראה כאילו איך הסתדרנו ללא זה.",
+			"can_remove": false,
+			"like_count": 5,
+			"user_likes": false,
+			"id": "567677026722868"
+		  }, {
+			"created_time": "2015-12-08T08:57:07+0000",
+			"from": {
+			  "name": "אלי שגיא",
+			  "id": "10153657027318062"
+			},
+			"message": "Or Alon Niv Sabinzer",
+			"can_remove": false,
+			"like_count": 0,
+			"message_tags": [{
+			  "id": "10155001100002586",
+			  "length": 7,
+			  "name": "Or Alon",
+			  "offset": 0,
+			  "type": "user"
+			}, {
+			  "id": "10157090841535328",
+			  "length": 12,
+			  "name": "Niv Sabinzer",
+			  "offset": 8,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "567678943389343"
+		  }, {
+			"created_time": "2015-12-08T09:11:32+0000",
+			"from": {
+			  "name": "Arik Liberman",
+			  "id": "1194706533886800"
+			},
+			"message": "מסכים עם Eli. מה זה \"העדר צורך\"? גם בגוגל ובפייסבוק לא היה בהתחלה צורך, והאמת שבפייסבוק אין שום צורך עד היום :) הם בנו את השוק של עצמם. אנחנו מדברים על סטארטאפים, לא על עסקים...",
+			"can_remove": false,
+			"like_count": 3,
+			"message_tags": [{
+			  "id": "10154392935311392",
+			  "length": 3,
+			  "name": "Eli Lavi",
+			  "offset": 9,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "567681093389128"
+		  }, {
+			"created_time": "2015-12-08T10:01:38+0000",
+			"from": {
+			  "name": "Israel Rosenberg",
+			  "id": "1581680992125435"
+			},
+			"message": "מתאים גם למיזמי BTB?",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "567688050055099"
+		  }, {
+			"created_time": "2015-12-08T10:05:39+0000",
+			"from": {
+			  "name": "Eitan Haimovich",
+			  "id": "299315593744247"
+			},
+			"message": "אולי תכוון את המוצר לזהות איך ליצור את הצורך אצל המישתמשים \nוזה תמיד מעניין",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "567688630055041"
+		  }, {
+			"created_time": "2015-12-08T10:18:56+0000",
+			"from": {
+			  "name": "Meir Dahan",
+			  "id": "10155120809258561"
+			},
+			"message": "דיון מעניין. :-)\nאז אם אני מבין נכון, יש כאן מיזם שמציע שירות שהוא מוצר >\nהמוצר של המיזם הזה הוא למעשה שירות שתכליתו להגיע למסקנה >\nהמסקנה שמנסים להגיע אליה היא האם מיזם אחר שמציע מוצר אחר, הוא מוצר שיש לו צורך.\n\nוהפוסט הזה הוא עצמו למעשה בדיקה האם השירות שהוא מוצר של המיזם הזה, שכאמור שתכליתו לבדוק מוצר אחר של מיזם אחר- הוא עצמו מוצר שיש בו צורך... \n\nהייתי רוצה לחשוב שאתה כבר יודע שיש בזה צורך, אחרת לא היית בודק את זה כך. ואם אתה בודק את זה כך, המשמעות היא שאתה לא יודע אם למוצר שלך יש צורך, ולכן מי ערב לכך שתדע אם למוצר אחר שיש צורך ?\nפשוט לא ?",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "567693813387856"
+		  }, {
+			"created_time": "2015-12-08T12:16:38+0000",
+			"from": {
+			  "name": "Michael Lugassy",
+			  "id": "10153627957808021"
+			},
+			"message": "תודה רבה רבה Nitzan Peles, אחלה שיחה ניהלנו ואני בטוח שניפגש. לכל היזמים האחרים, ניצן יכול לעזור בשלב שהוא מעין Pre-accelerator, שלב שבו היזמים סגורים על הרעיון אבל לא על הפרטים ואיך בדיוק להתחיל. תמיד טוב לשמוע ולהתייעץ עם מישהו שמוציא מוצרים בקצב גבוה. בהצלחה!",
+			"can_remove": false,
+			"like_count": 3,
+			"message_tags": [{
+			  "id": "10154216890378326",
+			  "length": 12,
+			  "name": "Nitzan Pesach Peles",
+			  "offset": 13,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "567733330050571"
+		  }, {
+			"created_time": "2015-12-08T12:18:16+0000",
+			"from": {
+			  "name": "Eitan Haimovich",
+			  "id": "299315593744247"
+			},
+			"message": "הבעיה של חלק מהאפליקציה זה מוניטיזציה ולא תמיד בגירסה הראשונה השניה ואפילו השלישית מצליחים לפצח את השימוש של המישתמשים ,",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "567733663383871"
+		  }, {
+			"created_time": "2015-12-08T12:57:55+0000",
+			"from": {
+			  "name": "Boaz Omanuti",
+			  "id": "10157070205100263"
+			},
+			"message": "אהלן Nitzan Peles יש לך לינק שבור בעמוד שאמור להוביל לפרוטפוליו שלך",
+			"can_remove": false,
+			"like_count": 1,
+			"message_tags": [{
+			  "id": "10154216890378326",
+			  "length": 12,
+			  "name": "Nitzan Pesach Peles",
+			  "offset": 5,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "567740250049879"
+		  }, {
+			"created_time": "2015-12-08T16:22:41+0000",
+			"from": {
+			  "name": "Ran Magen",
+			  "id": "10154117798545590"
+			},
+			"message": "הי ניצן! נראה ומרגיש נכון. ראשית - שיהיה המון בהצלחה. אני עובד ב MindCET , אקסלרטור בתחום החינוך. אנו מובילים את היזמים אצלנו (יש לנו מספר תוכניות והמיזמים בשלבים שונים) לפעול במתודולוגיה דומה. האתר בהחלט מבהיר את הערך שאתה רוצה לתת ליזמים מתחילים. 1.יכול להיות שכן הייתי מנסה לשדר מה המחיר של השירות. אולי לתת טווח מחירים כדי להבין האם המוצר רלוונטי ליזם שפוגש אותו מבחינת עלויות. 2. מנטורינג נתפס כמשהו ללא עלות - אולי הייתי מחליף את המילה למשהו אחר. 3. יכול להיות שהמיתוג של השירות צריך להיות \"תן לנו להוביל אותך לשוק הנכון או להוביל את המוצר לשוק שאתה מכוון אליו\" ולא האם יש צורך במוצר. בהנחה שצוות היזמים חזק, זאת צריכה להיות המטרה בעיני. שינויים בשוק או במוצר נעשים לא מעט פעמים במידה והדרך נכונה.",
+			"can_remove": false,
+			"like_count": 4,
+			"user_likes": false,
+			"id": "567793746711196"
+		  }, {
+			"created_time": "2015-12-09T08:26:15+0000",
+			"from": {
+			  "name": "Ken Fox",
+			  "id": "10153912168287762"
+			},
+			"message": "כתבתי לך בפרטי",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "567995080024396"
+		  }],
+		  "paging": {
+			"cursors": {
+			  "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAOVFkzTmpZAMk1qTTJOekl6T1RRM09qRTBORGsxTmpBNU9UUT0ZD",
+			  "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAOVFkzT1RrMU1EZA3dNREkwTXprMk9qRTBORGsyTkRrMU56WT0ZD"
+			}
+		  }
+		}
+	  },
+	  "link": {
+		"link": "http://j.mp/privatea",
+		"name": "The Private Startups Accelerator",
+		"picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAv0keb2Gqaa1_r&w=130&h=130&url=http%3A%2F%2Fassets.strikingly.com%2Fassets%2Ffb_images%2Fdefault-45f4d78a285c65997137ff1963cfb1c8.png&cfs=1",
+		"caption": "private-accelerator.strikingly.com"
+	  }
+	},
+	  "objectID" : "318236070"  },
+
+ {
+      "question":	{
+	  "date": "27/10/2015",
+	  "rating": 42,
+	  "id": "434228236734415_554340834723154",
+	  "groupName": "השבוע: שאלות ותשובות על סטארטאפים",
+	  "personName": "Eli Green",
+	  "message": "שלום, \nלפני כשנה עלה לי רעיון לאפליקציה.\nנפגשתי עם מספר פרילנסרים וחברה אחת בניסיון לתמכר את כתיבת הקוד .\nלאחר שקבלתי הצעות שנעו בין 30000-150000 הבנתי שעדיף לי לחפש חברים/מוכרים שאולי יתעניינו באפליקציה ויכתבו קוד עבורי - גם זה לא צלח.\n\nלכן לפני כארבע חודשים קניתי מחשב מק, ולאחר קריאת חומר ברשת,סרטים ביוטיוב וקורס לפיתוח אפליקציה ב- udemy 25$ .\nבניתי את האפליקציה בעצמי,שילמתי 99$ נוספים לאפל וכרגע האפליקציה נמצאת בשלב אישור בחנות אפל (לאחר דחיה ראשונה על הגדרת גיל לא מתאימה )\n\nמה צעד הבא שאלי לעשות ?\n- לשווק ?\n- לגייס כסף לצורך שיפור / בניית אפליקציה גם לאנדרואיד ?\n- לבדוק האם ראיון שלי טוב ? (לבצע סקר בפייסבוק)\n\nאשמח להצעות בנושא.\nתודה רבה !",
+	  "url": "https://www.facebook.com/434228236734415/posts/554340834723154",
+	  "personId": "262031527488296",
+	  "obj": {
+		"id": "434228236734415_554340834723154",
+		"from": {
+		  "name": "Eli Green",
+		  "id": "262031527488296"
+		},
+		"message": "שלום, \nלפני כשנה עלה לי רעיון לאפליקציה.\nנפגשתי עם מספר פרילנסרים וחברה אחת בניסיון לתמכר את כתיבת הקוד .\nלאחר שקבלתי הצעות שנעו בין 30000-150000 הבנתי שעדיף לי לחפש חברים/מוכרים שאולי יתעניינו באפליקציה ויכתבו קוד עבורי - גם זה לא צלח.\n\nלכן לפני כארבע חודשים קניתי מחשב מק, ולאחר קריאת חומר ברשת,סרטים ביוטיוב וקורס לפיתוח אפליקציה ב- udemy 25$ .\nבניתי את האפליקציה בעצמי,שילמתי 99$ נוספים לאפל וכרגע האפליקציה נמצאת בשלב אישור בחנות אפל (לאחר דחיה ראשונה על הגדרת גיל לא מתאימה )\n\nמה צעד הבא שאלי לעשות ?\n- לשווק ?\n- לגייס כסף לצורך שיפור / בניית אפליקציה גם לאנדרואיד ?\n- לבדוק האם ראיון שלי טוב ? (לבצע סקר בפייסבוק)\n\nאשמח להצעות בנושא.\nתודה רבה !",
+		"actions": [{
+		  "name": "Like",
+		  "link": "https://www.facebook.com/434228236734415/posts/554340834723154"
+		}],
+		"privacy": {
+		  "value": "",
+		  "description": "",
+		  "friends": "",
+		  "allow": "",
+		  "deny": ""
+		},
+		"type": "status",
+		"created_time": "2015-10-26T22:15:43+0000",
+		"updated_time": "2015-11-04T20:04:03+0000",
+		"is_hidden": false,
+		"is_expired": false,
+		"likes": {
+		  "data": [{
+			"id": "10154156667170295",
+			"name": "Itzhak Kameli"
+		  }, {
+			"id": "10209418108997324",
+			"name": "Ariel Elboim"
+		  }, {
+			"id": "1070927682944674",
+			"name": "Reuven Karasik"
+		  }, {
+			"id": "10154119608506259",
+			"name": "Eran Ben Sabat"
+		  }, {
+			"id": "10154344511428724",
+			"name": "Michael Penzin"
+		  }, {
+			"id": "10206236073171978",
+			"name": "Avrami Kliger"
+		  }, {
+			"id": "10154006691272659",
+			"name": "יוסי איזנטל"
+		  }, {
+			"id": "10153985711333248",
+			"name": "Ron Levy"
+		  }, {
+			"id": "10157069478610576",
+			"name": "Oran Kochavi"
+		  }, {
+			"id": "10209681911549284",
+			"name": "Guy Dan-Guri"
+		  }, {
+			"id": "10209985591418993",
+			"name": "Taïr Delia"
+		  }, {
+			"id": "10153990260902284",
+			"name": "Elchanan Shor"
+		  }, {
+			"id": "10208455807524981",
+			"name": "Udi Keshet"
+		  }, {
+			"id": "10154231082324299",
+			"name": "Yoni Meivar"
+		  }, {
+			"id": "10155001993712586",
+			"name": "Matat Lipsky"
+		  }, {
+			"id": "1715195928732602",
+			"name": "Arye Houminer"
+		  }, {
+			"id": "10208269476551945",
+			"name": "Roni Nehanevich"
+		  }, {
+			"id": "10207479291115183",
+			"name": "Rony Comm"
+		  }, {
+			"id": "10153713756987544",
+			"name": "Avishay Ovadia"
+		  }, {
+			"id": "10154445478399063",
+			"name": "Tzahi Fridman"
+		  }, {
+			"id": "10155120809258561",
+			"name": "Meir Dahan"
+		  }, {
+			"id": "1034018143318304",
+			"name": "Anna Kheifets"
+		  }, {
+			"id": "10153924811094737",
+			"name": "Eytan Levit"
+		  }, {
+			"id": "10154476386968394",
+			"name": "Liran Tadmor"
+		  }, {
+			"id": "10154374548179694",
+			"name": "Roie Shimon Cohen"
+		  }],
+		  "paging": {
+			"cursors": {
+			  "before": "MTAxNTQxNTY2NjcxNzAyOTUZD",
+			  "after": "MTAxNTQzNzQ1NDgxNzk2OTQZD"
+			},
+			"next": "https://graph.facebook.com/v2.0/434228236734415_554340834723154/likes?access_token=501986036514690%7CWhOAHes5DYXHwf8L47-nb910SxI&pretty=1&limit=25&after=MTAxNTQzNzQ1NDgxNzk2OTQZD"
+		  }
+		},
+		"comments": {
+		  "data": [{
+			"created_time": "2015-10-26T22:31:26+0000",
+			"from": {
+			  "name": "Or Azulay",
+			  "id": "10208843575060402"
+			},
+			"message": "1. לשווק ברשתות חברתיות בהתאם לקהל היעד שלך, לפנות לבלוגרים ספציפיים שיכתבו על המוצר. \n2. להגיע לכמות יוזרים מספיקה לבדיקות (נגיד 1000), ולבדוק איך היוזרים משתמשים באפליקציה, איפה הם מפסיקים, נתקעים ומתי.\n3. לשפר לשפר לשפר - בהתאם לנתונים שאספת בשלב 2.\n\nברגע שתגיע לגדילה אקספוננציאלית של יוזרים בכל חודש (15% אפריל, 30% מאי, 60% יוני) אז זה הזמן לגייס.",
+			"can_remove": false,
+			"like_count": 3,
+			"user_likes": false,
+			"id": "554343081389596"
+		  }, {
+			"created_time": "2015-10-26T22:43:43+0000",
+			"from": {
+			  "name": "Alex Rozenfarb",
+			  "id": "10153781044332685"
+			},
+			"message": "עוד קורס הפעם על שיווק, משקיע 500$ על מדיה בפייסבוק, ואז שואל שוב את אותה שאלה.",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "554344601389444"
+		  }, {
+			"created_time": "2015-10-26T22:48:37+0000",
+			"from": {
+			  "name": "Alex Rozenfarb",
+			  "id": "10153781044332685"
+			},
+			"message": "ואם חסר לך מידע או רוצה לשתף קריאייטיב לפני שאתה עולה לאוויר, יש אחלה פידבקים בקבוצה של מקצועני שיווק בגוגל",
+			"can_remove": false,
+			"like_count": 3,
+			"user_likes": false,
+			"id": "554345371389367"
+		  }, {
+			"created_time": "2015-10-27T01:03:42+0000",
+			"from": {
+			  "name": "Gadi Evron",
+			  "id": "10209685634082014"
+			},
+			"message": "אני לא יודע מה השלב הבא, אני כן יכול להגיד שאני מעריץ אותך",
+			"can_remove": false,
+			"like_count": 31,
+			"user_likes": false,
+			"id": "554364261387478"
+		  }, {
+			"created_time": "2015-10-27T03:25:15+0000",
+			"from": {
+			  "name": "Akiva Bloch",
+			  "id": "1802887356601862"
+			},
+			"message": "מה שגדי אמר",
+			"can_remove": false,
+			"like_count": 3,
+			"user_likes": false,
+			"id": "554387731385131"
+		  }, {
+			"created_time": "2015-10-27T03:59:57+0000",
+			"from": {
+			  "name": "Alon Moreshet",
+			  "id": "10154272740968794"
+			},
+			"message": "יש שלב שבא לפני פיתוח האפליקציה והוא בדיקת ההשערות שלך מול משתמשים לראות כמה באמת אוהבים אותו, מה חשוב למשתמשים וכו... עכשיו בשלב שלך לא היתי מתקדם לשיווק לפני שדיברת אישית עם כ 100 לקוחות הראתה להם את האפליקציה ושמעת את חוות דעתם. אחרי התיקונים תוכל לעבור לשלב השיווק שאך לעשות אותו וירלי תבין שתדבר עם המשתמשים שלך..בהצלחה",
+			"can_remove": false,
+			"like_count": 7,
+			"user_likes": false,
+			"id": "554392711384633"
+		  }, {
+			"created_time": "2015-10-27T04:26:00+0000",
+			"from": {
+			  "name": "Eli Green",
+			  "id": "262031527488296"
+			},
+			"message": "חברים, תודה לכולם !\n\nהתקנתי את האפליקציה למספר חברים וחברים שלהם, קבלתי פידבאקים חיוביים על הרעיון והמלצות לתיקון מספר דברים - את רובם תיקנתי.\nאך עדיין יש מספר דברים שהייתי שמח לתת לתיקון לאנשי מקצוע אמיתיים....\nבשביל זה אני צריך כסף.\nשאלה היא האם יש סיכוי לגייס כסף, כאשר אתה נמצא בשלב שאין לך לקוחות/משתמשים , אלה רק מוצר (שנדרש עוד לתקן בו מספר דברים) ושאין הוכחות שאנשים ישתמשו בו בעתיד...",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "554396321384272"
+		  }, {
+			"created_time": "2015-10-27T04:35:06+0000",
+			"from": {
+			  "name": "Alon Moreshet",
+			  "id": "10154272740968794"
+			},
+			"message": "בגדול מה שיש לך ביד זה אב טיפוס שזה יפה. החברים שלך הם ההוכחה צריך להגיע למשקיעים קטנים (אנג׳לים) עם האב טיפוס להסביר את הפוטנציאל העסקי ולהדגים לו אם הוא מתלהב ואתה מראה פידבקים ממשתמשים (חברים שלך) תוכל לגיס סכומים קטנים שיספיקו למה שאתה צריך",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "554397428050828"
+		  }, {
+			"created_time": "2015-10-27T07:07:35+0000",
+			"from": {
+			  "name": "David Yahid",
+			  "id": "1180324368678334"
+			},
+			"message": "Start by word of mouth and having people you know download and provide feedback. Then move on to marketing, while starting to work on a version 2. This can have new features or improve existing ones. Until you start generating profits and can get some help, you want to control your scaling. An accelerator program might be right for you now.",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "554423254714912"
+		  }, {
+			"created_time": "2015-10-27T07:09:56+0000",
+			"from": {
+			  "name": "Zamir Gal",
+			  "id": "665112530305845"
+			},
+			"message": "לפי דעתי לפני הכל תלמד מעט על חווית משתמש דבר שרבים נופלים בו לא משנה כמה טובה האפליקציה שלך אם חווית המשתמש לא טובה היא לא תצליח. \nשלב שני תבנה גם לאנדרואיד ולפי כמות המשתמשים תוגש לגיוס כסף. \nלגבי האם הרעיון טוב או לא בדוק בכמה מקומות שאתה רק יכול ותבקש רעיונות לשיפורים.",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "554423688048202"
+		  }, {
+			"created_time": "2015-10-27T07:10:34+0000",
+			"from": {
+			  "name": "Eli Green",
+			  "id": "262031527488296"
+			},
+			"message": "שלום , אשמח לקבל הצעות בנוגע לאנג׳לים ו- accelerator...\nמתוקה רבה לכולם !",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "554423941381510"
+		  }, {
+			"created_time": "2015-10-27T07:13:53+0000",
+			"from": {
+			  "name": "Elisha Cohen",
+			  "id": "10210106975773147"
+			},
+			"message": "אני מוריד בפניך את הכובע. לאנשים כמוך מגיע להיקרא יזם!",
+			"can_remove": false,
+			"like_count": 6,
+			"user_likes": false,
+			"id": "554424641381440"
+		  }, {
+			"created_time": "2015-10-27T07:29:46+0000",
+			"from": {
+			  "name": "Isan Rivkin",
+			  "id": "10209117310308789"
+			},
+			"message": "https://docs.google.com/spreadsheets/d/1zuSO8fMBcju5S-ZfDh3ffajnn2U2eau40CbtBnp4ubA/pubhtml#\n\nיש כאן רשימות של אקסלרטורים בישראל ואנגלים תוכל להיעזר בזה. \nבהצלחה וכל הכבוד!",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "554427254714512"
+		  }, {
+			"created_time": "2015-10-27T07:32:09+0000",
+			"from": {
+			  "name": "Maxim Veksler",
+			  "id": "10154134328360049"
+			},
+			"message": "מה בנית אלי ?",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "554427604714477"
+		  }, {
+			"created_time": "2015-10-27T08:02:50+0000",
+			"from": {
+			  "name": "Eli Green",
+			  "id": "262031527488296"
+			},
+			"message": "תודה רבה לכולם!\nבאמת שכל התגובות פה מכוונות אותי להמשך.",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "554435174713720"
+		  }, {
+			"created_time": "2015-10-27T08:16:50+0000",
+			"from": {
+			  "name": "רויטל מוסקוביץ",
+			  "id": "640831532735372"
+			},
+			"message": "וואו!!! זה בטח ממש ממש מספק לדעת שחשבת על משהו ולמדת בעצמך ובנית אותו לגמרי לבד!!! זה ממש לא ברור מאליו! שאפו!",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "554437194713518"
+		  }, {
+			"created_time": "2015-10-27T08:26:18+0000",
+			"from": {
+			  "name": "Eli Green",
+			  "id": "262031527488296"
+			},
+			"message": "תודה",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "554438551380049"
+		  }, {
+			"created_time": "2015-10-27T08:47:12+0000",
+			"from": {
+			  "name": "Omri Shabi",
+			  "id": "10208689308363454"
+			},
+			"message": "אלי, קודם כל - אתה לחלוטין דמות להערצה!\nכל התגובות למעלה שנוגעות לנקודות המקצועיות (להביא יוזרים, ללמוד את ההתנהגות, לשפר וכו') הן מדויקות מאוד וכדאי לך להתייחס אליהן ברצינות וליישם אותן.\nלגביי גיוס כסף - אם הגעת למסקנה שזה היעד הבא שלך ואין לך משהו חשוב יותר לעשות עכשיו שיכול לקדם לך את הביזנס - אז תתחיל כבר אתמול!\nנכון שיהיה לך הרבה יותר קשה לגייס כשאין לך \"משהו\" מוצק ביד (מוצק לעניין זה יכול להיות שיעור ריטנשיין מעניין, גידול מהותי במצבת היוזרים על בסיס חודשי, או כל דבר שמשרת את ה-Usage Pattern הספציפי של עולם התוכן של האפליקציה שלך) אבל... \n1. לא משנה מתי תגיע למשקיעים - תמיד תהיינה להם הערות/פידבקים/ריג'קטים. \nאם תדחה את שלב התחלת תהליך הגיוס לנקודה בה תחשוב שהיא ראויה לכך - אתה תמצא את עצמך דוחה ודוחה ודוחה ללא סיבה אמיתית, כי אין באמת נקודה כזו מושלמת שמישהו יכול לספר לך עליה מלבד המשקיעים עצמם! אז לך תראה מה הם מחפשים, הם יגידו לך!\n2. גיוס כסף זה יותר אמנות ופחות מדע, זה Skill שבדר\"כ אתה צריך לעבוד עליו ולפתח אותו. אתה נחשף וחושף, מקבל פידבקים ומשפר, זה תהליך לא קצר שצריך להשקיע בו זמן, תכנון ומחשבה.\nלכן, בהתחשב בשתי הנקודות שציינתי - אני ממליץ לך להתקשר כבר עכשיו עם משקיעים - להיפגש ולהציג, על מנת שתגיע עם נקודת פתיחה כלשהי.\nאל תבזבז על זה יותר מדי זמן ותעשה את זה במסגרת אסטרטגיית גיוס מושכלת.\nככל שתיצור אינטראקציה ראשונית בשלב מוקדם (ויגידו לך לא!) תוכל בעוד חודש לעשות Follow-up ולהראות התקדמות, ולאחר חודש עוד התקדמות, ומשקיעים אוהבים לראות התקדמות, משקיעים אוהבים מגמות ולא בהכרח נתונים ספציפיים שכביכול מעידים אם אתה אטרקטיבי מספיק או לא. מה גם שזו הזדמנות עבורך לנסות להוציא ממשקיעים ספציפיים את המשפט הקונקרטי: \"לא אשקיע בך, אבל אם תחזור אליי עם X - זה יכול להיות מעניין\", תמיד תשאל: \"מה היה חסר לי בשביל שהיית משקיע בי\" ואז גם יהיה לך איזשהו בנצ'מארק שיעזור לך להתפקס בשביל להשיג את היעד.\nבהצלחה!",
+			"can_remove": false,
+			"like_count": 4,
+			"user_likes": false,
+			"id": "554440794713158"
+		  }, {
+			"created_time": "2015-10-27T08:55:53+0000",
+			"from": {
+			  "name": "Zigi Zigmond",
+			  "id": "10154310859298415"
+			},
+			"message": "אגב,\nכשזה יעלה אחרי האישור...\nשתף את הלינק, מאמין שתקבל פה עוד מלא תגובות בונות :)",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "554441794713058"
+		  }, {
+			"created_time": "2015-10-27T09:15:56+0000",
+			"from": {
+			  "name": "Eli Green",
+			  "id": "262031527488296"
+			},
+			"message": "עומרי וכולם, שוב תודה רבה !\nהערות והמלצות שלכם חשובות וענייניות מאוד .",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "554445158046055"
+		  }, {
+			"created_time": "2015-10-27T09:34:25+0000",
+			"from": {
+			  "name": "Meir Dahan",
+			  "id": "10155120809258561"
+			},
+			"message": "קודם כל מגיע לך כל הכבוד !\nזה שעלה לך רעיון לאפליקציה... ברור, כמו עוד מליון אחרים...\nזה שנפגשת עם מספר פרילנסרים וחברה בניסיון לבדוק עלויות פיתוח... ברור, כמו עוד אלף אחרים...\nזה שלא קבלת את ההצעות שנעו בין 30000-150000... ברור לגמרי.\nזה שחיפשת חברים/מוכרים שאולי יתעניינו באפליקציה ויפתחו אותה ולא צלח... ברור... כי אנשים בדר\"כ תופסים את זה כעבודה בחינם...\nזה שקנית מחשב מק, (למה דווקא IOS?) וקראת חומר ברשת, סרטים ביוטיוב וקורס לפיתוח אפליקציה ב- udemy 25$ . זה בכלל לא ברור... כמעט הזוי לטובה... והופך אותך לאחד מאלף... וזה עושה אותך מיוחד.\nבעיני, האפליקציה פחות חשובה מהמסע שעשית. \nהרבה הצלחה בהמשך :-)",
+			"can_remove": false,
+			"like_count": 16,
+			"user_likes": false,
+			"id": "554448471379057"
+		  }, {
+			"created_time": "2015-10-27T09:37:47+0000",
+			"from": {
+			  "name": "Eli Green",
+			  "id": "262031527488296"
+			},
+			"message": "תודה רבה !!",
+			"can_remove": false,
+			"like_count": 0,
+			"user_likes": false,
+			"id": "554449318045639"
+		  }, {
+			"created_time": "2015-10-27T19:04:13+0000",
+			"from": {
+			  "name": "Ron Belson",
+			  "id": "1335374629825955"
+			},
+			"message": "לא הבנתי.. כתבת את כל העולם ולא הוצאת את האפליקציה לאיש אחד בעולם.. אתה מחביא? שים פה לינק.. עזוב סיפורים. תן גזזזזזז.. מתחיל בחמישי ומשם מאיץ.. כל פיד לינק כל שיחה כל נשימה היא שווק... מחכים ללינק לתת פידבק ולהפיץ.. וגם אם לא עלה תו לנו מסכים. תן הסבר.. שווק לנו.. הנה השעור הראשון בשיווק.. מבלי לשלם 500 דולר לעוד קורס..",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "554582428032328"
+		  }, {
+			"created_time": "2015-10-27T19:24:56+0000",
+			"from": {
+			  "name": "Yosi Taguri",
+			  "id": "10153529861516695"
+			},
+			"message": "AWESOME!!!",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "554587564698481"
+		  }, {
+			"created_time": "2015-10-27T19:36:18+0000",
+			"from": {
+			  "name": "Eli Green",
+			  "id": "262031527488296"
+			},
+			"message": "רון, לבקשתך אשלח בקרוב מספר מסכים והסבר כפי שיופיע בחנות אפל אחרי שיאשרו ...\nלגבי הקישור... מכיוון שהאפליקציה נמצאת בשלב test אני יכול לשלוח אותה רק לאנשים אותם אני מגדיר לפי המייל שלהם...\nלכל מי שרוצה לראות , מוזמן לשלוח לי בפרטי את הכתובת אימייל שלו.\n(כרגע זה רק לאייפון)",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "554589894698248"
+		  }],
+		  "paging": {
+			"cursors": {
+			  "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAOVFUwTXpRek1EZA3hNemc1TlRrMk9qRTBORFU0T1RnMk9EWT0ZD",
+			  "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAOVFUwTlRnNU9EazBOams0TWpRNE9qRTBORFU1TnpRMU56ZAz0ZD"
+			},
+			"next": "https://graph.facebook.com/v2.0/434228236734415_554340834723154/comments?access_token=501986036514690%7CWhOAHes5DYXHwf8L47-nb910SxI&pretty=1&limit=25&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAOVFUwTlRnNU9EazBOams0TWpRNE9qRTBORFU1TnpRMU56ZAz0ZD"
+		  }
+		}
+	  }
+	},
+	  "objectID" : "318238450"  },
+
+ {
+      "question":	{
+	  "date": "27/11/2015",
+	  "rating": 74,
+	  "id": "434228236734415_564142023743035",
+	  "groupName": "השבוע: שאלות ותשובות על סטארטאפים",
+	  "personName": "Izhar Shay",
+	  "message": "שלום חברים. חומר למחשבה בסוף השבוע המתקרב. ראיתי לאחרונה הרבה סטארט-אפים צעירים בתחילת דרכם, חלקם גם מתייעצים איתי, שמתחבטים בין מספר אפשרויות מימון על יד משקיעים. אנחנו בתקופה טובה יחסית, יש די הרבה כסף בשוק שזמין להשקעות, ולכן שאלת מהי האלטרנטיבה הנכונה עולה יותר בתכיפות. \nבכל פעם מחדש אני מופתע לראות עד כמה הוולואציה היא גורם מרכזי בשיקולים. מציע לכם בחום לחשוב גם על התמונה הכללית - עם מי אתם רוצים לעשות עסקים, האם אלה הם השותפים איתם תרצו לעבוד צמוד בעשר שנים הקרובות, האם כל השאר התנאים - מעבר להערכת שווי ודילולים - מקובלים עליכם ועוד ועוד. \nאם תרצו לשאול בנושא אתם מוזמנים. ובכל מקרה, שבת שלום, תנוחו קצת.",
+	  "url": "https://www.facebook.com/434228236734415/posts/564142023743035",
+	  "personId": "10153786567143546",
+	  "obj": {
+		"id": "434228236734415_564142023743035",
+		"from": {
+		  "name": "Izhar Shay",
+		  "id": "10153786567143546"
+		},
+		"message": "שלום חברים. חומר למחשבה בסוף השבוע המתקרב. ראיתי לאחרונה הרבה סטארט-אפים צעירים בתחילת דרכם, חלקם גם מתייעצים איתי, שמתחבטים בין מספר אפשרויות מימון על יד משקיעים. אנחנו בתקופה טובה יחסית, יש די הרבה כסף בשוק שזמין להשקעות, ולכן שאלת מהי האלטרנטיבה הנכונה עולה יותר בתכיפות. \nבכל פעם מחדש אני מופתע לראות עד כמה הוולואציה היא גורם מרכזי בשיקולים. מציע לכם בחום לחשוב גם על התמונה הכללית - עם מי אתם רוצים לעשות עסקים, האם אלה הם השותפים איתם תרצו לעבוד צמוד בעשר שנים הקרובות, האם כל השאר התנאים - מעבר להערכת שווי ודילולים - מקובלים עליכם ועוד ועוד. \nאם תרצו לשאול בנושא אתם מוזמנים. ובכל מקרה, שבת שלום, תנוחו קצת.",
+		"actions": [{
+		  "name": "Like",
+		  "link": "https://www.facebook.com/434228236734415/posts/564142023743035"
+		}],
+		"privacy": {
+		  "value": "",
+		  "description": "",
+		  "friends": "",
+		  "allow": "",
+		  "deny": ""
+		},
+		"type": "status",
+		"created_time": "2015-11-27T13:05:29+0000",
+		"updated_time": "2015-11-29T08:15:33+0000",
+		"is_hidden": false,
+		"is_expired": false,
+		"likes": {
+		  "data": [{
+			"id": "10154037321459279",
+			"name": "Beni Gazala"
+		  }, {
+			"id": "10154355982344433",
+			"name": "Sharon Schreiber"
+		  }, {
+			"id": "10154095366452559",
+			"name": "Ya'ara Cohen"
+		  }, {
+			"id": "1581680992125435",
+			"name": "Israel Rosenberg"
+		  }, {
+			"id": "10154327741307238",
+			"name": "Anat Amibar"
+		  }, {
+			"id": "10154360112382834",
+			"name": "Yoni Passwell"
+		  }, {
+			"id": "10154185848902368",
+			"name": "Amir Gruber"
+		  }, {
+			"id": "1724803351141981",
+			"name": "Sho Dave"
+		  }, {
+			"id": "10153938580378218",
+			"name": "Sagee Ben-Zedeff"
+		  }, {
+			"id": "10154342904759637",
+			"name": "Tal Shatz"
+		  }, {
+			"id": "10153967808084219",
+			"name": "Idan Ratzabi"
+		  }, {
+			"id": "10206759667726634",
+			"name": "Yossi Tevner"
+		  }, {
+			"id": "10154462168272176",
+			"name": "Yossi Dagan"
+		  }, {
+			"id": "10208755659862580",
+			"name": "Lior Redlus"
+		  }, {
+			"id": "1237451489622404",
+			"name": "Itai Green"
+		  }, {
+			"id": "10207479291115183",
+			"name": "Rony Comm"
+		  }, {
+			"id": "10153714723826659",
+			"name": "Tali Landau-Ofer"
+		  }, {
+			"id": "10154377487538746",
+			"name": "Amir Isenberg"
+		  }, {
+			"id": "10155051433780550",
+			"name": "Demi Ben-Ari"
+		  }, {
+			"id": "10153927820427479",
+			"name": "Ohad Yaniv"
+		  }, {
+			"id": "10154515292292985",
+			"name": "Eran Wagner"
+		  }, {
+			"id": "10153903172911715",
+			"name": "Assi Ziv"
+		  }, {
+			"id": "10208269476551945",
+			"name": "Roni Nehanevich"
+		  }, {
+			"id": "10154170262676224",
+			"name": "Donna Griffit"
+		  }, {
+			"id": "10209808685835944",
+			"name": "Gil Shourka"
+		  }],
+		  "paging": {
+			"cursors": {
+			  "before": "MTAxNTQwMzczMjE0NTkyNzkZD",
+			  "after": "MTAyMDk4MDg2ODU4MzU5NDQZD"
+			},
+			"next": "https://graph.facebook.com/v2.0/434228236734415_564142023743035/likes?access_token=501986036514690%7CWhOAHes5DYXHwf8L47-nb910SxI&pretty=1&limit=25&after=MTAyMDk4MDg2ODU4MzU5NDQZD"
+		  }
+		},
+		"comments": {
+		  "data": [{
+			"created_time": "2015-11-27T13:22:19+0000",
+			"from": {
+			  "name": "Yair Bar-On",
+			  "id": "10154309565306514"
+			},
+			"message": "יזהר, אני חושב שהולואציה פחות חשובה, מה שחשוב מאד זה הקאפ טייבל. יזמים שיוצאים מסיבוב סיד עם 70% מהחברה ויצליחו לצאת מסיבוב השקעה ראשון עם 40% נמצאים במקום טוב להמשך. עכשיו תכפיל את זה בכמה כסף החברה צריכה ותגיע למספרים בדולרים. מסכים?",
+			"can_remove": false,
+			"like_count": 5,
+			"user_likes": false,
+			"id": "564149520408952"
+		  }, {
+			"created_time": "2015-11-27T13:37:44+0000",
+			"from": {
+			  "name": "Roy Oron",
+			  "id": "10154293687833126"
+			},
+			"message": "כמה נכון!\nורק אוסיף עוד דבר קטן (וחשוב) - אין חברה בלי יזמים. \nאם תעשו את מה שאתם צריכים לעשות - פשוט לבנות חברות גדולות - גם אם תדוללו בהמשך לרמה נמוכה מידי - הבורד שלכם ידאג לשמור אתכם מרוצים.\nהיינו שם\nעשינו את זה בעצמנו.\n\nJust do it!\nשבת שלום!\n(גם אני הולך לנוח קצת ;))0",
+			"can_remove": false,
+			"like_count": 10,
+			"user_likes": false,
+			"id": "564159930407911"
+		  }, {
+			"created_time": "2015-11-27T13:46:12+0000",
+			"from": {
+			  "name": "Izhar Shay",
+			  "id": "10153786567143546"
+			},
+			"message": "השקעות סיד היום מדללות יזמים בכ 25 עד 30 אחוזים. זה מה שאני רואה היום מאזור האנג׳לים וקרנות הסיד. משם היזמים יוצאים עם כ 70+ אחוזים בחברה. תזכרו שדילולים בהמשך אמורים לרדת לאזור ה 15 -20 אחוזים כמעט ללא קשר לכמות הכסף. ובסבבים מאוחרים - אפילו 10 -15 אחוזים תמורת עשרות מליוני דולרים.",
+			"can_remove": false,
+			"like_count": 8,
+			"user_likes": false,
+			"id": "564161823741055"
+		  }, {
+			"created_time": "2015-11-27T13:46:41+0000",
+			"from": {
+			  "name": "Daniel Damboritz",
+			  "id": "10157045302640612"
+			},
+			"message": "מהניסיון המועט שלי, המשקיעים שהם גרידי ולוקחים נתח גדול מהעוגה בשלב כל כך מוקדם ו/או מעריכים את החברה בולואציה נמוכה, הם גם אלה שאתה לא רוצה לשבת איתם בעשר השנים הקרובות. בד\"כ שני הפרמטרים האלה הם רק אינדיקציה למה שיופיע ברשימת זכויות הוטו שהם ידרשו בהמשך ה-Term Sheet...",
+			"can_remove": false,
+			"like_count": 7,
+			"user_likes": false,
+			"id": "564161887074382"
+		  }, {
+			"created_time": "2015-11-27T17:13:08+0000",
+			"from": {
+			  "name": "Rony Comm",
+			  "id": "10207479291115183"
+			},
+			"message": "תודה על התובנות יזהר :)",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "564221337068437"
+		  }, {
+			"created_time": "2015-11-28T04:33:30+0000",
+			"from": {
+			  "name": "Sho Dave",
+			  "id": "1724803351141981"
+			},
+			"message": "בסופו של דבר גם מאחורי קרן ההשקעות הגדולה בעולם עומדים בני אדם עם רצונות, מאוויים ואגו. אני מעדיף משקיע שחוקר אותנו חקירת שתי וערב על כל היבטי החברה לפני שהוא מקבל החלטה (כן/לא) מאשר אחד שמוכן לשים מליונים אבל רוב הפגישות מעניין אותו לשמוע כמה מהר אנחנו נהייה חד-קרן. כי אני יודע שהראשון חי את החברה, הערך המוסף שהוא יביא לנו ירפד את הדרך בשושנים. השני, יכה אותנו בסרפדים כל רבעון שבו נסטה קלות מהתחזיות. בסופו של דבר העניין זה מה מניע אותנו כבני אדם. אני לא מסכים שמשקיעים רק רוצים להגדיל את ההון שברשותם. ישנם משקיעים שאוהבים ליצור, לצמוח, להביא ערך לחברה. אותם אני מעדיף.",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "564345667056004"
+		  }],
+		  "paging": {
+			"cursors": {
+			  "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAOVFkwTVRRNU5USXdOREE0T1RVeU9qRTBORGcyTXpBMU16az0ZD",
+			  "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAOVFkwTXpRMU5qWTNNRFUyTURBME9qRTBORGcyT0RVeU1UQT0ZD"
+			}
+		  }
+		}
+	  }
+	},
+	  "objectID" : "318236870"
+ 
+ },
+
+	 {
+      "question":{
+	  "date": "20/09/2015",
+	  "rating": 200,
+	  "groupName": "השבוע: שאלות ותשובות על סטארטאפים",
+	  "id": "434228236734415_542761442547760",
+	  "personName": "Gili Golander",
+	  "message": "שבוע טוב לכולם. מצרפת קישור לרשימה גדולה של משקיעים שהכנתי בזמן תקופת הגיוס שלנו. הרשימה מסודרת לפי חממות, איינג׳לים, קבוצות איינג׳לים, מיקרו קרנות, קרנות וכו׳. מקווה שיהיה לכם שימושי :)\n\n",
+	  "url": "https://www.facebook.com/434228236734415/posts/542761442547760",
+	  "personId": "10154140424471839",
+	  "obj": {
+		"id": "434228236734415_542761442547760",
+		"from": {
+		  "name": "Gili Golander",
+		  "id": "10154140424471839"
+		},
+		"message": "שבוע טוב לכולם. מצרפת קישור לרשימה גדולה של משקיעים שהכנתי בזמן תקופת הגיוס שלנו. הרשימה מסודרת לפי חממות, איינג׳לים, קבוצות איינג׳לים, מיקרו קרנות, קרנות וכו׳. מקווה שיהיה לכם שימושי :)\n\n",
+		"picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQA1RU_uMiABjvy2&w=130&h=130&url=https%3A%2F%2Fssl.gstatic.com%2Fdocs%2Fspreadsheets%2Fspinner.gif&cfs=1",
+		"link": "https://docs.google.com/spreadsheets/d/1FIgtMhTloZ4Abf4K7ZfgolCCFMYzQsV6ZbfMjo81W-c/edit?usp=sharing",
+		"name": "Investors - Google Sheets",
+		"caption": "docs.google.com",
+		"icon": "https://www.facebook.com/images/icons/post.gif",
+		"actions": [{
+		  "name": "Like",
+		  "link": "https://www.facebook.com/434228236734415/posts/542761442547760"
+		}],
+		"privacy": {
+		  "value": "",
+		  "description": "",
+		  "friends": "",
+		  "allow": "",
+		  "deny": ""
+		},
+		"type": "link",
+		"status_type": "shared_story",
+		"created_time": "2015-09-20T08:57:34+0000",
+		"updated_time": "2015-09-24T15:47:12+0000",
+		"shares": {
+		  "count": 2
+		},
+		"is_hidden": false,
+		"is_expired": false,
+		"likes": {
+		  "data": [{
+			"id": "10210073556419184",
+			"name": "Ofer Zelig"
+		  }, {
+			"id": "10208521712012745",
+			"name": "Gal Polonsky"
+		  }, {
+			"id": "10209941030900493",
+			"name": "Ze'ev Cohen"
+		  }, {
+			"id": "10154333852312996",
+			"name": "Ori Goldberg"
+		  }, {
+			"id": "10154318686558829",
+			"name": "Avishai Ashkenazi"
+		  }, {
+			"id": "10154306212824246",
+			"name": "Moshe Menkin"
+		  }, {
+			"id": "10153871667590787",
+			"name": "Saar Wilf"
+		  }, {
+			"id": "10154278021482528",
+			"name": "Eti Suruzon"
+		  }, {
+			"id": "10208837698072349",
+			"name": "Yonatan Doron"
+		  }, {
+			"id": "10209734047377166",
+			"name": "Mariana Ai"
+		  }, {
+			"id": "10154293454028622",
+			"name": "Dor Æon Konforty"
+		  }, {
+			"id": "1092392784162148",
+			"name": "Michal Shalgi-Shira"
+		  }, {
+			"id": "10154288798272769",
+			"name": "Avner Roash"
+		  }, {
+			"id": "10154342219624588",
+			"name": "Ido Lazar"
+		  }, {
+			"id": "10154317368822351",
+			"name": "Tchelet Galai"
+		  }, {
+			"id": "10153576474756384",
+			"name": "Lia Kislev"
+		  }, {
+			"id": "1027258627323220",
+			"name": "סיגל גפני דלל"
+		  }, {
+			"id": "10157197269510220",
+			"name": "Alon Herbst"
+		  }, {
+			"id": "1041653135942896",
+			"name": "איתן ארבל"
+		  }, {
+			"id": "10154344511428724",
+			"name": "Michael Penzin"
+		  }, {
+			"id": "10153224800642185",
+			"name": "Elad Razgan"
+		  }, {
+			"id": "10201434607544268",
+			"name": "Yechiel Zur"
+		  }, {
+			"id": "10154257837963607",
+			"name": "Oded Livneh"
+		  }, {
+			"id": "10153904459204480",
+			"name": "Yigael Berger"
+		  }, {
+			"id": "10154320254794168",
+			"name": "Rami Shkolnik"
+		  }],
+		  "paging": {
+			"cursors": {
+			  "before": "MTAyMTAwNzM1NTY0MTkxODQZD",
+			  "after": "MTAxNTQzMjAyNTQ3OTQxNjgZD"
+			},
+			"next": "https://graph.facebook.com/v2.0/434228236734415_542761442547760/likes?access_token=501986036514690%7CWhOAHes5DYXHwf8L47-nb910SxI&pretty=1&limit=25&after=MTAxNTQzMjAyNTQ3OTQxNjgZD"
+		  }
+		},
+		"comments": {
+		  "data": [{
+			"created_time": "2015-09-20T09:12:03+0000",
+			"from": {
+			  "name": "Yonatan Horowitz",
+			  "id": "10154105173356005"
+			},
+			"message": "Shiran Yaroslavsky",
+			"can_remove": false,
+			"like_count": 1,
+			"message_tags": [{
+			  "id": "10154359130028707",
+			  "length": 18,
+			  "name": "Shiran Yaroslavsky",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "542768645880373"
+		  }, {
+			"created_time": "2015-09-20T09:15:03+0000",
+			"from": {
+			  "name": "Erez Lugashi",
+			  "id": "10154287692449872"
+			},
+			"message": "תודה אלופה👍",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "542774019213169"
+		  }, {
+			"created_time": "2015-09-20T09:17:07+0000",
+			"from": {
+			  "name": "Chedva Kleinhandler",
+			  "id": "10153699670902083"
+			},
+			"message": "תודה!",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "542774322546472"
+		  }, {
+			"created_time": "2015-09-20T09:23:03+0000",
+			"from": {
+			  "name": "Yuval Susskind",
+			  "id": "10153554151612312"
+			},
+			"message": "מרשים!! תודה, זכית לפחות מאחד מהם?",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "542775189213052"
+		  }, {
+			"created_time": "2015-09-20T09:28:09+0000",
+			"from": {
+			  "name": "Gil Eyal",
+			  "id": "10156977155325004"
+			},
+			"message": "מעולה. יש דרך לשמור לינקים בראש הקבוצה?",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "542775892546315"
+		  }, {
+			"created_time": "2015-09-20T09:35:29+0000",
+			"from": {
+			  "name": "Yossi Dagan",
+			  "id": "10154462168272176"
+			},
+			"message": "ממש ברגע זה 40 אנשים צופים במסמך הזה. כפי הנראה קלעת למידע מבוקש על ידי יזמים. כל הכבוד על היוזמה.",
+			"can_remove": false,
+			"like_count": 8,
+			"user_likes": false,
+			"id": "542776815879556"
+		  }, {
+			"created_time": "2015-09-20T09:35:42+0000",
+			"from": {
+			  "name": "Dan Blechner",
+			  "id": "10154187152266855"
+			},
+			"message": "תודה על השיתוף!",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "542776865879551"
+		  }, {
+			"created_time": "2015-09-20T09:43:59+0000",
+			"from": {
+			  "name": "Gal Ringel",
+			  "id": "10154383945506209"
+			},
+			"message": "למה שלא תפתחי את זה לעריכה בשביל כולם? כמו האקסל של עדן שוחט?\nאצלנו ב-Nielsen Innovate למשל יש כמה טעויות...",
+			"can_remove": false,
+			"like_count": 8,
+			"user_likes": false,
+			"id": "542777875879450"
+		  }, {
+			"created_time": "2015-09-20T09:55:04+0000",
+			"from": {
+			  "name": "Eyal Biebar",
+			  "id": "10154397567908678"
+			},
+			"message": "כל הכבוד.",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "542783442545560"
+		  }, {
+			"created_time": "2015-09-20T10:04:12+0000",
+			"from": {
+			  "name": "Racheli Tapuchi",
+			  "id": "10153983746068612"
+			},
+			"message": "תודה ששיתפת!",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "542785365878701"
+		  }, {
+			"created_time": "2015-09-20T10:20:21+0000",
+			"from": {
+			  "name": "Nes Carmon",
+			  "id": "10208484023552530"
+			},
+			"message": "אוקי עכשיו מי מארגן אקסל של מיזמים שמחפשים גיוס \nגם יעזור למשקיעים למצוא - תמיד יותר נחמד שפונים אליך\nוגם אפשר יהיה לדעת כמה קולגות יש בתהליך ואז אולי לעשות איזה סיעור מוחות",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "542788749211696"
+		  }, {
+			"created_time": "2015-09-20T10:27:49+0000",
+			"from": {
+			  "name": "Gili Golander",
+			  "id": "10154140424471839"
+			},
+			"message": "נ.ב. מי שרוצה לצאת צדיק ולמזג את זה עם הרשימה של אדן, יבורך :)",
+			"can_remove": false,
+			"like_count": 5,
+			"user_likes": false,
+			"id": "542790175878220"
+		  }, {
+			"created_time": "2015-09-20T10:30:59+0000",
+			"from": {
+			  "name": "Avi Assayag",
+			  "id": "878351562269518"
+			},
+			"message": "סחטיין על היוזמה. רעיון מעולה!",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "542791559211415"
+		  }, {
+			"created_time": "2015-09-20T10:45:12+0000",
+			"from": {
+			  "name": "Nes Carmon",
+			  "id": "10208484023552530"
+			},
+			"message": "ועוד נקודה שצריך לשבור אם כולנו אקוסיסטם משקיעים וסטארטאפים וב\"ה גם ישראלים פתוחים מדברים בגובה עיניים ולא עם אף בשמיים אז אפשר להוריד את האינטרו נכון שזה תמיד טוב אבל לא צריך להיות חסם \nאחרת מה שווים האקסלים האלה מי שכבר מכיר או יש לו מי שיעשה לו אינטרו לא צריך ומי שאין לו לא יכול להשתמש \nוכבר שמעתי על כאלה שרוצים חמש אחוז מהכסף וחמש אחוז מהמניות ממה שהמשקיע מקבל רק עבור האינטרו",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "542793779211193"
+		  }, {
+			"created_time": "2015-09-20T10:48:50+0000",
+			"from": {
+			  "name": "Adi Ben Mayor",
+			  "id": "1042238232536682"
+			},
+			"message": "Or Rigler",
+			"can_remove": false,
+			"like_count": 0,
+			"message_tags": [{
+			  "id": "10157080918715261",
+			  "length": 9,
+			  "name": "Or Rigler",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "542794282544476"
+		  }, {
+			"created_time": "2015-09-20T11:15:45+0000",
+			"from": {
+			  "name": "Gali Meiri",
+			  "id": "10153721812411769"
+			},
+			"message": "מעולה",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "542798719210699"
+		  }, {
+			"created_time": "2015-09-20T11:28:49+0000",
+			"from": {
+			  "name": "Sharon Chai-Matan",
+			  "id": "10207837458026931"
+			},
+			"message": "מצוין תודה",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "542801839210387"
+		  }, {
+			"created_time": "2015-09-20T11:36:09+0000",
+			"from": {
+			  "name": "Gil Brudner",
+			  "id": "10153642047481752"
+			},
+			"message": "Shachar Golavry",
+			"can_remove": false,
+			"like_count": 1,
+			"message_tags": [{
+			  "id": "10209393203488825",
+			  "length": 15,
+			  "name": "Shachar Golavry",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "542804022543502"
+		  }, {
+			"created_time": "2015-09-20T11:42:04+0000",
+			"from": {
+			  "name": "Shir Comay",
+			  "id": "10153743082623589"
+			},
+			"message": "Avner Goren",
+			"can_remove": false,
+			"like_count": 1,
+			"message_tags": [{
+			  "id": "622855144555968",
+			  "length": 11,
+			  "name": "Avner Goren",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "542805389210032"
+		  }, {
+			"created_time": "2015-09-20T11:58:47+0000",
+			"from": {
+			  "name": "Hilla Ovil Brenner",
+			  "id": "10154454063665757"
+			},
+			"message": "כל הכבוד אלופה",
+			"can_remove": false,
+			"like_count": 2,
+			"user_likes": false,
+			"id": "542808579209713"
+		  }, {
+			"created_time": "2015-09-20T13:03:39+0000",
+			"from": {
+			  "name": "Rony Comm",
+			  "id": "10207479291115183"
+			},
+			"message": "תודה :)",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "542822065875031"
+		  }, {
+			"created_time": "2015-09-20T18:38:42+0000",
+			"from": {
+			  "name": "Yoram Yosef",
+			  "id": "10209675831715751"
+			},
+			"message": "תודה!",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "542916419198929"
+		  }, {
+			"created_time": "2015-09-20T20:40:22+0000",
+			"from": {
+			  "name": "איתן ארבל",
+			  "id": "1041653135942896"
+			},
+			"message": "תודה רבה רבה לך!\nבאת לי בדיוק בזמן עם זה :)",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "542942315863006"
+		  }, {
+			"created_time": "2015-09-21T06:05:36+0000",
+			"from": {
+			  "name": "Avishay Biton",
+			  "id": "10154265300399431"
+			},
+			"message": "תודה רבה",
+			"can_remove": false,
+			"like_count": 1,
+			"user_likes": false,
+			"id": "543050475852190"
+		  }, {
+			"created_time": "2015-09-21T06:52:14+0000",
+			"from": {
+			  "name": "Etai Shay",
+			  "id": "10153658342277091"
+			},
+			"message": "Dov Rozenberg",
+			"can_remove": false,
+			"like_count": 0,
+			"message_tags": [{
+			  "id": "10154736236886111",
+			  "length": 13,
+			  "name": "Dov Rozenberg",
+			  "offset": 0,
+			  "type": "user"
+			}],
+			"user_likes": false,
+			"id": "543064482517456"
+		  }],
+		  "paging": {
+			"cursors": {
+			  "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAOVFF5TnpZANE5qUTFPRGd3TXpjek9qRTBOREkzTkRBek1qTT0ZD",
+			  "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAOVFF6TURZAME5EZA3lOVEUzTkRVMk9qRTBOREk0TVRnek16UT0ZD"
+			},
+			"next": "https://graph.facebook.com/v2.0/434228236734415_542761442547760/comments?access_token=501986036514690%7CWhOAHes5DYXHwf8L47-nb910SxI&pretty=1&limit=25&after=WTI5dGJXVnVkRjlqZAFhKemIzSTZAOVFF6TURZAME5EZA3lOVEUzTkRVMk9qRTBOREk0TVRnek16UT0ZD"
+		  }
+		}
+	  },
+	  "link": {
+		"link": "https://docs.google.com/spreadsheets/d/1FIgtMhTloZ4Abf4K7ZfgolCCFMYzQsV6ZbfMjo81W-c/edit?usp=sharing",
+		"name": "Investors - Google Sheets",
+		"picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQA1RU_uMiABjvy2&w=130&h=130&url=https%3A%2F%2Fssl.gstatic.com%2Fdocs%2Fspreadsheets%2Fspinner.gif&cfs=1",
+		"caption": "docs.google.com"
+	  }
+	},
+	  "objectID" : "318241010"
+	 }
+	  ]
+}

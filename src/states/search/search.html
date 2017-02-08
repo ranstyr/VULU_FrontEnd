@@ -1,0 +1,151 @@
+<!--	  main    -->
+<div class="main-pages ">
+    <div class="search-body">
+
+        <main class="w-container main-section">
+
+            <header on-search="Search.getSearchResult(query)" query="Search.query">
+            </header>
+
+
+
+
+            <section class="w-container questions-container">
+
+
+
+
+                <div class="w-row">
+                    <div class="w-col w-col-2  w-col-medium-0 w-col-small-0 w-col-tiny-0 w-col-big-mobile-0 column categories-container">
+                        <div class="categories-header">
+                            <h1 class="categories-title">הנושאים החמים</h1>
+                        </div>
+                        <ul class="categories-list">
+                            <!--							<li ng-click="Search.getFeaturedResult()" class="flex-box"><a href="">הפופולאריים ביותר</a></li>-->
+                            <li ng-click="Search.getSearchResult('משקיעים')" class="flex-box"><a href="">משקיעים</a></li>
+                            <li ng-click="Search.getSearchResult('מחפש-שותף')" class="flex-box"><a href="">מחפש שותף</a></li>
+                            <li ng-click="Search.getSearchResult('מעצבים')" class="flex-box"><a href="">מעצבים</a></li>
+                            <li ng-click="Search.getSearchResult('חשיפה')" class="flex-box"><a href="">חשיפה</a></li>
+                            <li ng-click="Search.getSearchResult('SEO')" class="flex-box"><a href="">SEO</a></li>
+                            <li ng-click="Search.getSearchResult('שיווק')" class="flex-box"><a href="">שיווק</a></li>
+                            <li ng-click="Search.getSearchResult('seed')" class="flex-box"><a href="">seed</a></li>
+                            <li ng-click="Search.getSearchResult('רעיונות')" class="flex-box"><a href="">רעיונות</a></li>
+                        </ul>
+                    </div>
+                    <div class="w-col w-col-10 w-col-medium-12 w-col-small-12 w-col-tiny-12 w-col-big-mobile-12 column">
+
+
+
+                        <div class="questions-group">
+                            <div class="questions-header">
+                                <svg ng-hide="Search.isQuery" class="icon icon-popular">
+                                    <use xlink:href="#icon-popular"></use>
+                                </svg>
+                                <svg ng-show="Search.isQuery" class="icon icon-facebook">
+                                    <use xlink:href="#icon-facebook"></use>
+                                </svg>
+
+                                <h1 ng-hide="Search.isQuery" class="questions-date">הפופלאריים ביותר</h1>
+                                <h1 ng-show="Search.isQuery" class="questions-date">השבוע: שאלות ותשובות על סטארטאפים</h1>
+
+                            </div>
+                            <div class="questions">
+                                <div class="question-box" ng-repeat="hit in Search.searchresult.hits |orderBy: '-likes_count'">
+                                    <a class="question-link" ui-sref="home.talkFS({objectID: hit.objectID})">
+                                        <div class="w-row">
+
+                                            <div class="w-col w-col-12 w-col-small-12 w-col-tiny-12 w-col-big-mobile-12 column">
+
+
+                                                <a href="https://www.facebook.com/app_scoped_user_id/{{hit.from.id}}" target="_blank" title="{{hit.from.name}}">
+                                                    <img class="owner-img" ng-src="https://graph.facebook.com/{{hit.from.id}}/picture?width=200&height=200">
+
+                                                </a>
+
+                                                <div class="flex-box">
+                                                    <p class="post-date-search">{{hit.created_time | date:'dd/MM/yyyy'}}</p>
+                                                    <h2 ng-show="hit._highlightResult.message.value" class="question-title" ng-bind-html="hit._highlightResult.message.value | linkyWithHtml"></h2>
+                                                    <h2 ng-hide="hit._highlightResult.message.value" class="question-title" ng-bind-html="hit.message | linkyWithHtml"></h2>
+
+                                                    <a ng-if="hit.type === 'link'" dir="auto" class="post-link" href="{{hit.link}}" target="_blank">
+                                                        <img ng-if="hit.picture" ng-src="{{hit.picture}}">
+
+                                                        <h2 class="post-link-name">{{hit.name}}</h2>
+
+                                                        <!--														<span class="post-link-website">{{hit.question.link.caption}}</span>-->
+                                                    </a>
+
+
+
+
+                                                </div>
+
+
+
+                                                <div class="flex-height">
+
+                                                    <a target="_blank" href="https://www.facebook.com/{{hit.objectID}}" class="link-button">
+                                                        <p>לפוסט בפייסבוק</p>
+                                                    </a>
+
+                                                    <a ui-sref="home.talkFS({objectID: hit.objectID})" class="comments-button">
+                                                        <svg class="icon icon-comments">
+                                                            <use xlink:href="#icon-comments"></use>
+                                                        </svg>
+                                                        <p>{{hit.comments_count ? hit.comments_count + ' תגובות' : 'ראה תגובות' }}</p>
+                                                    </a>
+
+
+
+                                                    <div class="upvote-button" ng-click="hit.likes_count = hit.likes_count + 1">
+                                                        <div class="triangle-button"><span class="triangle triangle-up"></span>
+                                                        </div>
+
+                                                        <p>{{hit.likes_count ? hit.likes_count : '0' }}</p>
+                                                    </div>
+
+
+
+                                                </div>
+
+
+
+
+                                            </div>
+
+
+                                        </div>
+                                    </a>
+
+                                </div>
+
+
+
+                            </div>
+                        </div>
+
+                        <div ng-show="Search.searchresult.hits.length === 0">
+                            <div id="page-loading">
+                                <div class="loading-box">
+                                    <div class="loading-icon">
+                                        <p class="loader"></p>
+                                    </div>
+                                    <h3 class="loading-header">לא נמצאו תוצאות</h3>
+                                </div>
+                                <p class="loading-text">תנסה/י להכניס מילות חיפוש אחרות...</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
+
+        </main>
+        <footer>
+            <div>
+                <h4>&copy; Vulu 2016. Made with love by <a target="_blank" href="">Ran Styr</a> and <a target="_blank" href="http://www.eladlev.com/">Elad Lev</a> </h4>
+            </div>
+        </footer>
+    </div>
+</div>
