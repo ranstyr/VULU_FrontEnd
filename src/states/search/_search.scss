@@ -437,19 +437,19 @@
 		font-size: 12px;
 		letter-spacing: 0.25px;
 	}
-	.post-link {
+	.post-link-picture {
 		background: transparent;
 		border: 1px solid #e5e5e5;
 		margin-bottom: 15px;
+        text-align: center;
 		position: relative;
-		height: 65px;
+		height: 100%;
 		-webkit-transition: all 0.12s ease;
 		transition: all 0.12s ease;
 		& img {
 			display: inline-block;
 			border-right: 1px solid #e5e5e5;
 			width: 100%;
-			max-width: 64px;
 			position: relative;
 			z-index: 1;
 		}
@@ -457,7 +457,28 @@
 			background: #fefeff;
 		}
 	}
-	.post-link:hover .post-link-name {
+  .post-link {
+    background: transparent;
+    border: 1px solid #e5e5e5;
+    margin-bottom: 15px;
+    position: relative;
+    height: 65px;
+    -webkit-transition: all 0.12s ease;
+    transition: all 0.12s ease;
+    & img {
+      display: inline-block;
+      border-right: 1px solid #e5e5e5;
+      width: 100%;
+      max-width: 64px;
+      position: relative;
+      z-index: 1;
+    }
+    &.white {
+      background: #fefeff;
+    }
+  }
+
+  .post-link:hover .post-link-name {
 		text-decoration: underline;
 	}
 	.post-link:hover {
