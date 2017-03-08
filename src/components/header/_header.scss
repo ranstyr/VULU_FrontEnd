@@ -402,7 +402,7 @@ tags-input .tags .input {
 .sign-up-button.active + .login-tooltip {
   opacity: 1;
   display: block;
-  height: 285px;
+  height: 400px;
 }
 	
 .sign-up-button.active + .login-tooltip.error {	
@@ -628,7 +628,25 @@ tags-input .tags .input {
     right: 0;	
 }
 
-.signup-text {
+.signup-container-new {
+    position: relative;
+    margin-top:120px;;
+    max-width: 100%;
+    width: 100%;
+    margin: 0px auto;
+    text-align: right;
+    height: auto;
+    display: inline-block;
+    padding: 0px 28px 18px;
+    background: #f1f1f1;
+    bottom: 0px;
+    position: absolute;
+    left: 0;
+    right: 0;
+  }
+
+
+  .signup-text {
   font-size: 15px;
   color: #666;
     line-height: 2.5;
@@ -813,7 +831,47 @@ tags-input .tags .tag-item {
 	
 	
 }
-	
+  .iubenda-white {
+    background: #FFF url(//cdn.iubenda.com/icon_green_mini.gif) no-repeat;
+    background-position: 7px 3px;
+    background-position-x: 6px;
+    background-position-y: 2px;
+    padding-left: 20px;
+    text-decoration: none;
+    color: #59636d;
+    -webkit-box-shadow: 0 1px 0 #ebebec;
+    -moz-box-shadow: 0 1px 0 #ebebec;
+    box-shadow: 0 1px 0 #ebebec;
+    -webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.08);
+    -moz-box-shadow: 0 1px 0 rgba(0,0,0,0.08);
+    box-shadow: 0 1px 0 rgba(0,0,0,0.08);
+    border-top-color: #d0d0d0;
+    border-left-color: #c3c3c3;
+    border-right-color: #c3c3c3;
+    border-bottom-color: #b8b9ba;
+    padding-right: 6px;
+  }
+
+  .a {
+    padding-right: 6px;
+    margin-bottom: 5px;
+    /* flex: initial; */
+    /* float: none; */
+    /* display: flex; */
+    text-align: center;
+    align-items: center;
+    margin-right: 70px;
+    display: inline-block;
+    border: 1px;
+    border-style: solid;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    font-size: 11px;
+    border: 1px solid #d2d3d3;
+    line-height: 18px;
+    font-weight: bold;
+  }
 }
 	
 

@@ -1,6 +1,8 @@
 //var portfolio_json             = require('../../data/portfolioData.json');
 import {algoliasearch }           from 'algoliasearch'
 import algoliasearchHelper      from 'algoliasearch-helper'
+import firebase from 'firebase';
+
 
 export class SearchModel {
 
@@ -60,6 +62,7 @@ export class SearchModel {
     }
 
     get(query) {
+
         return this.index.search(query , this.algoliaQueryParam).
             then((content, err) => {
                 //sort according to userScore
